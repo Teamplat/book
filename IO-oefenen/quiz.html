@@ -1,0 +1,285 @@
+<title>Paramariboom IO-trainer</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap">
+<style>
+/* Layout: one narrow study column; a tab switch between quiz and IO-practice; each card is a single "index card" on a wooden-house-white ground */
+:root{
+  --bg:#f2f5f1; --surface:#ffffff; --ink:#1c2a22; --muted:#5b6b61; --line:#d5ded6;
+  --accent:#c9671a; --accent-ink:#ffffff; --leaf:#2f6b45;
+  --ok:#2f7a4a; --ok-bg:#e3f2e8; --bad:#b0362f; --bad-bg:#f8e4e2;
+  --display:"Young Serif", Georgia, serif;
+  --body:"Atkinson Hyperlegible", system-ui, -apple-system, sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#141c17; --surface:#1d2721; --ink:#e7eee9; --muted:#9db0a4; --line:#2f3d34;
+  --accent:#ec9445; --accent-ink:#1a1209; --leaf:#7cc495;
+  --ok:#7fd29c; --ok-bg:#1d3526; --bad:#f08a80; --bad-bg:#3a201d; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#141c17; --surface:#1d2721; --ink:#e7eee9; --muted:#9db0a4; --line:#2f3d34;
+  --accent:#ec9445; --accent-ink:#1a1209; --leaf:#7cc495;
+  --ok:#7fd29c; --ok-bg:#1d3526; --bad:#f08a80; --bad-bg:#3a201d; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.55}
+.wrap{max-width:720px;margin:0 auto;padding-block:28px 60px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:20px}
+h1{font-family:var(--display);font-weight:400;font-size:clamp(28px,6vw,40px);line-height:1.1;margin:0;text-wrap:balance}
+.sub{color:var(--muted);margin:6px 0 0}
+.tabs{display:flex;gap:8px;flex-wrap:wrap}
+.tab{font:inherit;font-weight:700;padding:10px 16px;border-radius:999px;border:1.5px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
+.tab[aria-selected="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:22px;display:flex;flex-direction:column;gap:14px;min-width:0}
+.eyebrow{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--leaf);font-weight:700}
+.q{font-family:var(--display);font-size:22px;line-height:1.3;margin:0;text-wrap:balance}
+.opts{display:grid;gap:10px}
+.opt{font:inherit;text-align:left;padding:12px 14px;border-radius:10px;border:1.5px solid var(--line);background:var(--bg);color:var(--ink);cursor:pointer}
+.opt:hover:not(:disabled){border-color:var(--accent)}
+.opt.ok{background:var(--ok-bg);border-color:var(--ok);color:var(--ink)}
+.opt.bad{background:var(--bad-bg);border-color:var(--bad);color:var(--ink)}
+.opt:disabled{cursor:default}
+.expl{border-left:3px solid var(--accent);padding:4px 0 4px 12px;color:var(--ink)}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between}
+.btn{font:inherit;font-weight:700;padding:11px 18px;border-radius:10px;border:none;background:var(--accent);color:var(--accent-ink);cursor:pointer}
+.btn.ghost{background:transparent;color:var(--ink);border:1.5px solid var(--line)}
+.score{font-variant-numeric:tabular-nums;color:var(--muted);font-weight:700}
+.bar{height:6px;background:var(--line);border-radius:6px;overflow:hidden}
+.bar>i{display:block;height:100%;background:var(--leaf);width:0;transition:width .3s}
+.pick{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media (max-width:520px){.pick{grid-template-columns:1fr}}
+.frag{font:inherit;text-align:left;border:1.5px solid var(--line);background:var(--bg);color:var(--ink);border-radius:12px;padding:16px;cursor:pointer;display:flex;flex-direction:column;gap:4px;min-width:0}
+.frag:hover{border-color:var(--accent)}
+.frag b{font-family:var(--display);font-weight:400;font-size:19px}
+.frag span{color:var(--muted);font-size:14px}
+.timer{font-family:var(--display);font-size:44px;font-variant-numeric:tabular-nums;line-height:1}
+.steps{margin:0;padding-left:20px;display:grid;gap:4px}
+.ans h3{font-family:var(--display);font-weight:400;font-size:18px;margin:6px 0 2px;color:var(--leaf)}
+.ans p{margin:0}
+.quote{font-style:italic}
+.note{color:var(--muted);font-size:14px;margin:0}
+button:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+@media (prefers-reduced-motion:reduce){.bar>i{transition:none}}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Onder de paramariboom: IO-trainer</h1>
+    <p class="sub">Oefen voor je IO van morgen: herken fragmenten, leer de citaten en doe een proef-IO met timer.</p>
+  </header>
+
+  <div class="tabs" role="tablist">
+    <button class="tab" id="t-quiz" role="tab" aria-selected="true">Quiz</button>
+    <button class="tab" id="t-io" role="tab" aria-selected="false">Proef-IO</button>
+  </div>
+
+  <!-- QUIZ -->
+  <section id="quiz" class="card" aria-live="polite">
+    <div class="row"><span class="eyebrow" id="qtype">Waar ben ik?</span><span class="score" id="qscore">0 / 0</span></div>
+    <div class="bar"><i id="qbar"></i></div>
+    <p class="q" id="qtext"></p>
+    <div class="opts" id="qopts"></div>
+    <div class="expl" id="qexpl" hidden></div>
+    <div class="row">
+      <button class="btn ghost" id="qrestart">Opnieuw beginnen</button>
+      <button class="btn" id="qnext" hidden>Volgende vraag</button>
+    </div>
+  </section>
+
+  <!-- IO -->
+  <section id="io" class="card" hidden>
+    <span class="eyebrow">Zoals op de echte IO</span>
+    <p class="q" id="ioq">Je krijgt twee fragmenten. Kies er één.</p>
+    <div class="pick" id="iopick"></div>
+    <div id="iowork" hidden style="display:flex;flex-direction:column;gap:14px">
+      <div class="row">
+        <div><div class="note" id="iophase">Voorbereiding</div><div class="timer" id="iotimer">20:00</div></div>
+        <div class="row" style="gap:8px">
+          <button class="btn ghost" id="iopause">Pauze</button>
+          <button class="btn ghost" id="iopres">Start presentatie (4:00)</button>
+        </div>
+      </div>
+      <ol class="steps">
+        <li>Lees het fragment in de PDF (zie de pagina's hierboven).</li>
+        <li>Schrijf max. 10 bullets: samenvatting, verband met het hele boek, mening (PEAL).</li>
+        <li>Presenteer 3–4 minuten hardop. Daarna kijk je naar het antwoord.</li>
+      </ol>
+      <button class="btn" id="ioshow">Toon voorbeeldantwoord</button>
+      <div class="ans" id="ioans" hidden></div>
+      <div class="row"><button class="btn ghost" id="ionew">Nieuwe fragmenten trekken</button></div>
+    </div>
+    <div class="row" id="iostartrow"><button class="btn" id="iodraw">Trek twee fragmenten</button></div>
+  </section>
+
+  <p class="note">Tip: doe de quiz 2 keer. Alles wat je fout had, zoek je op in het STUDEERBOEK.</p>
+</div>
+
+<script>
+// ---------- DATA ----------
+const CH = [
+ {n:"Proloog",p:"6–9",d:"Inleiding",s:"Kleine Johannes zegt dat mama uit 'de paramariboom' komt. Volwassenen vragen: 'Maar waar kom je ECHT vandaan?' Hij gebruikt zijn Hollandse naam als schild en vergeet dat hij 'ander bloed' heeft. Hij kijkt stiekem naar de foto van opa Miel.",v:"Titel van het boek; de vraag 'waar kom je echt vandaan' en de naam Johannes komen steeds terug. Het boek eindigt met 'Mijn naam is Johannes'.",q:"Ik ben niet een van de anderen, ik ben een van jullie.",t:"Identiteiten"},
+ {n:"Dus, landing",p:"10–15",d:"Dag 0",s:"Johannes landt in Paramaribo. De piloot zegt 'Welkom thuis, jongen', maar hij voelt alleen dat hij het wíl voelen. Het backpackmeisje (Jaantje) kijkt door hem heen. Clyde en Yvette halen hem op.",v:"Zijn toespraak op Dag 6 begint met precies deze zinnen (cirkelstructuur).",q:"Welkom thuis, jongen.",t:"Ervaringen"},
+ {n:"Ontwaken",p:"16–21",d:"Dag 1",s:"Johannes is vroeg wakker. Herinnering: moeder 'slaapt uit namens haar voorouders, uitrusten van de slavernij'; vader 'is geen Duitser'. Yvette: 'Het is wel je land, schat!' Surinaamse tijd en regen.",v:"Vroeg opstaan = je lichaam voelt zich thuis (moeder op Dag 4: 'dat komt niet door de jetlag').",q:"Ik slaap uit namens mijn voorouders. Ik ben aan het uitrusten van de slavernij, Jan.",t:"Identiteiten"},
+ {n:"Waterkant",p:"22–26",d:"Dag 1",s:"Sranantongo heette vroeger 'neger-Engels', 'maar jij mag het nooit zo noemen'. Clyde noemt hem 'blaka bakra'. Johannes reisde door heel Zuid-Amerika, maar nooit naar Suriname. NDP-campagnewagen.",v:"'Wie mag welk woord zeggen' leidt tot de grote ruzie op Dag 6.",q:"Waarom zij het wel zo mocht noemen, kreeg ik nooit te horen.",t:"Identiteiten"},
+ {n:"Ik wil niet naar Su",p:"27–29",d:"Flashback",s:"Twee keer per jaar vraagt moeder of hij meegaat; hij zegt altijd nee. Moeder oefende voor de Hollandse kou voor een open koelkast. Op zijn 29e verjaardag geeft ze hem een bruine envelop.",v:"Het ouderlijk huis bezoeken ze op Dag 4; de koelkast komt terug op de laatste bladzijde.",q:"Nooit zei ik: 'Ik ben half-Surinaams', altijd: 'Ik heb een Surinaamse moeder'.",t:"Ervaringen"},
+ {n:"Tante Enilda (1)",p:"30–33",d:"Dag 1",s:"Moeder belt: 'Je loopt gewoon in mijn land!' Tante Enilda komt; ze ruikt naar moeder en nu komt ook zijn hoofd thuis. Ze zegt dat hij rechter op moet lopen.",v:"Moeder wil dat hij 'eerst zelf leert lopen' en vliegt later. Lichaam/hoofd komen samen.",q:"Voor het eerst sinds de landing vinden mijn hoofd en lichaam elkaar.",t:"Identiteiten"},
+ {n:"Tante Enilda (2)",p:"33–37",d:"Dag 1",s:"Johannes fotografeert twee ABOP-mannen; tante redt hem met een leugen. Bij De Gadri legt tante uit: Surinamers begraven de navelstreng van een baby in de tuin.",v:"Moeder begraaft Johannes' navelstreng op Dag 4. Zelfde zin staat in opa's gedicht.",q:"Hollanders bewaren alles, maar in zo'n stukje navelstreng zien ze blijkbaar geen toekomst.",t:"Ervaringen"},
+ {n:"Wi na Sranang-mang!",p:"38–41",d:"Gedachten / flashback",s:"Johannes houdt zijn 'harnas' op tegen moeder. Hij beseft: je kunt niet helemaal wegbewegen van waar je vandaan komt. Hij opent de envelop: opa's gedicht 'Wij zijn Surinamers'.",v:"Keerpunt vóór de reis. Pantser valt op Dag 6.",q:"Die Johannes zal nooit bestaan. Er komt geen andere man.",t:"Identiteiten"},
+ {n:"Dagu Swen (1)",p:"42–45",d:"Dag 1",s:"Een hond drijft in de rivier. Tante: 'Dagu swen: hij doet maar wat en toch blijft hij boven water.' Surinaamse tijd. Fort Zeelandia blijkt een klein kasteeltje (Decembermoorden).",v:"Dagu swen komt terug op de laatste bladzijde.",q:"Dagu swen: hij doet maar wat en toch blijft hij boven water.",t:"Ervaringen"},
+ {n:"Dagu Swen (2)",p:"45–47",d:"Dag 1",s:"Oom Jimmy zat vast onder Bouterse, maar werkt nu indirect voor hem. Hij kijkt kritisch naar het gezin Fretz. 'Om verder te geraken, zullen wij elkaar moeten vergeven.'",v:"Vergeving: Johannes vergeeft zijn moeder op Dag 6. Clyde zegt later: 'hij hoort bij ons'.",q:"Als je hier niet vandaan komt, zul je dat niet begrijpen.",t:"Sociale organisatie"},
+ {n:"Giovanni & Sanne",p:"48–50",d:"Dag 1",s:"Jaantje leest een Hitler-biografie. Ze denkt dat hij Giovanni heet. Johannes is een 'kameleon', 'kip noch vis'.",v:"De zin wordt later korter: 'ik ben nergens thuis'. Begin van het liefdesverhaal.",q:"Ik ben nergens thuis, dus ben ik het overal.",t:"Identiteiten"},
+ {n:"Reginald Purperhart",p:"51–55",d:"Dag 1",s:"Johannes herkent zich in opa's gedichten. Opa en oma mochten eerst niet trouwen (te zwart / te arm). Ouders ruziën over racisme. Reginald lacht om 'hoe laat?'.",v:"Moeders eigen racisme komt terug; 'opo yu kleur' wordt later uitgelegd.",q:"Surinamers zijn zelf de grootste racisten van allemaal.",t:"Sociale organisatie"},
+ {n:"Hotel Torarica",p:"56–61",d:"Dag 2",s:"Johannes fantaseert over het afscheid van zijn ouders op Schiphol. In Torarica ontmoet hij Dean Gorré en beseft: wij zijn allebei Surinamers.",v:"Zijn 'wij'-gevoel groeit (ook bij Typhoon).",q:"dat wij allebei Surinamers zijn. Van wat tinten wij ook zijn!",t:"Identiteiten"},
+ {n:"De zachtmoedige radicaal (1)",p:"62–67",d:"Dag 2",s:"Taxichauffeur: 'Holland heeft haar het langst gehad. Jullie.' Bloemenhuis van oom Rudy; bordje 'familie 3 keer schellen'. Rudy rouwt om zijn vrouw.",v:"Kolonialisme; Johannes is hier soms 'de Hollander'.",q:"Jullie hebben dit land het best uitgewoond.",t:"Deel de planeet"},
+ {n:"De zachtmoedige radicaal (2)",p:"67–71",d:"Dag 2",s:"Rudy leest opa's gedichten: 'Tegentij' mooi, politieke gedichten 'breedspraak'. 'Lente in de Winter': Johannes huilt. Rudy: verandering komt van radicalen.",v:"Moeder noemt Johannes aan het eind 'mijn zachtmoedige radicaal'.",q:"Kun je niet allebei zijn? Zachtmoedig en radicaal?",t:"De vindingrijke mens"},
+ {n:"Between the World and Me",p:"72–74",d:"Dag 2",s:"Na Coates' boek voelt Johannes zich soms buiten een onzichtbaar hek, als een sneeuwpoppetje in een glazen bol. Maar hij trekt de luiken dicht: 'Ik heet Johannes.'",v:"Pantser/schild; opa zou door het hek glippen, Rudy zou het kapot trappen.",q:"hij kan die wereld niet aanraken.",t:"Identiteiten"},
+ {n:"De verjaardag",p:"75–79",d:"Flashback",s:"Op zijn 29e verjaardag vraagt Sascha waarom hij nooit iets zegt over racisme (Zwarte Piet). 'Het is niet mijn pijn.' 's Nachts kan hij niet slapen en opent de envelop.",v:"De oorzaak van de reis.",q:"alsof Sascha met een scalpel een kleine scheur in mijn huid had gemaakt.",t:"Sociale organisatie"},
+ {n:"Het beste nieuws sinds jaren",p:"80–82",d:"Flashback",s:"Almere voelt als The Truman Show voor moeder. Johannes vertelt dat ze samen naar Suriname gaan; moeder gilt van blijdschap.",v:"Moeders heimwee ('waar is Commewijne gebleven?').",q:"ze zich hier Jim Carrey voelde in The Truman Show.",t:"Ervaringen"},
+ {n:"Tropische orkaan",p:"83–85",d:"Dag 2",s:"Radio 10, Pim en Lydia. Hollanders herken je aan hoe ze staan. De lp van Typhoon: ook een Surinamer.",v:"Rolmodellen; Lydia stapt op Dag 6 van het podium.",q:"wij komen hier vandaan.",t:"De vindingrijke mens"},
+ {n:"Jaantje & Johannes",p:"86–89",d:"Dag 2",s:"Jaantje is half-Hongaars. 'Tribe' is belangrijker dan kleur. Johannes mist in NL de warmbloedigheid. 'Proost! Op ander bloed!'",v:"'Ander bloed' → Shaffy en de zoen; Boedapest.",q:"Thuis heb ik altijd het gevoel dat ik mezelf moet afremmen.",t:"Identiteiten"},
+ {n:"Niet helemaal eerlijk geweest",p:"90–95",d:"Flashback",s:"Als kind van 8 wordt Johannes bespuugd en geslagen ('Vol is vol!'). Polaroid-Pakistaan. Moeder: 'Hij is geen Turk!', maar zelf ook bevooroordeeld.",v:"Verklaart de naam als schild; humor als verdediging.",q:"'Ik heet Johannes,' probeerde ik nog, maar het werkte niet.",t:"Sociale organisatie"},
+ {n:"De meeste bakra's",p:"96–99",d:"Dag 3",s:"Kakkerlakken (net als moeder). Kamer in Torarica nog niet klaar; Johannes blijft rustig.",v:"Hij past zich aan het Surinaamse ritme aan.",q:"de meeste bakra's reageren gewoon niet zo relaxed.",t:"Ervaringen"},
+ {n:"Joe moes opo yu kleur (1)",p:"100–104",d:"Dag 3",s:"Jimmy houdt van status. Flashback: 'Dat ik het zeg, betekent nog niet dat jij het mag zeggen.' Drooglegging op verkiezingsdagen.",v:"Leidt tot de ruzie op Dag 6.",q:"Dat ik het zeg, betekent nog niet dat jij het mag zeggen.",t:"Sociale organisatie"},
+ {n:"Joe moes opo yu kleur (2)",p:"104–106",d:"Dag 3",s:"Jimmy: Suriname was verzuild. 'Joe moes opo yu kleur': trouw lichter, zodat je kinderen witter worden. Opa noemde Enilda 'mi blaka popki'. Danseressen; de steiger van moeder.",v:"Johannes draait dit om: 'ik kloer twee kanten op' (Dag 5).",q:"zodat je kinderen witter werden dan jijzelf.",t:"Deel de planeet"},
+ {n:"Jan & Virginia",p:"107–111",d:"Flashback",s:"Virginia (19) moest in 1973 naar Veenendaal. Ze wilde Andy Warhol worden; mocht niet naar de kunstacademie. 'Ik ben Esmeralda.' Bhagwan, Egmond, dokter Samba: 'een kind brengt rust'.",v:"Verklaart haar boosheid op de familie en haar ziekte.",q:"Ze kwam naar Holland omdat ze moest.",t:"Ervaringen"},
+ {n:"Wonen of verblijven",p:"112–118",d:"Dag 3",s:"Moeder komt aan: 'De koningin is gearriveerd!' 'Zeker omdat ik zwart ben.' 'Het is een andere zon.' Hoed. Ze logeert bij Wonny.",v:"'Andere zon' staat ook op de laatste bladzijde.",q:"Ik ruik het weer. Ik voel die zon. Het is een andere zon.",t:"Ervaringen"},
+ {n:"Wat een lelijke baby",p:"119–121",d:"Flashback",s:"Geboorte 1985. 'Wat een lelijke baby!' (tegen boze geesten). Postnatale depressie; vader wordt vader én moeder. Eerste woord: 'Papa!'",v:"Moeder bewaarde de navelstreng.",q:"Ze wil zo graag. Maar ze kan er niet bij.",t:"Ervaringen"},
+ {n:"Op bezoek bij Wonny",p:"122–128",d:"Dag 4",s:"Yvette is 'die blaka bakra'. Briefje van Jaantje. Taxichauffeur over Chinezen. Moeder: 'Ik kom hier vandaan.' Ze staan allebei vroeg op.",v:"Moeder en zoon delen hun thuisgevoel.",q:"Nee schat, dat komt niet door de jetlag.",t:"Identiteiten"},
+ {n:"Zusjes",p:"129–134",d:"Dag 4",s:"Wonny: 'Elke korrel van dit land is politiek.' Moeder aan het water: 'Waar is Commewijne gebleven?' Ruzie met Enilda over Colakreek.",v:"Rolpatronen van de jongste; Commewijne op Dag 5.",q:"waar is Commewijne toch gebleven?",t:"Ervaringen"},
+ {n:"Een nieuw huis voor mama",p:"135–138",d:"Flashback",s:"Johannes (5) zoekt met vader een flat voor moeder: 'een pareltje'. Twee huizen; vader is zijn held.",v:"Contrast met het warme huis op stelten.",q:"Dat is beter voor haar, beter voor papa en daarom ook beter voor mij.",t:"Sociale organisatie"},
+ {n:"Weglopen",p:"139–143",d:"Flashback",s:"Moeder loopt weg; de politie brengt haar thuis (begraafplaats, joggingpak). Johannes (7) besluit: ik moet mezelf redden.",v:"Hier ontstaat zijn schild; komt terug in de ruzie.",q:"Ik ben niet waar ik vandaan kom, ik ben niet waar ik vandaan kom.",t:"Ervaringen"},
+ {n:"De synagoge en de moskee (1)",p:"144–148",d:"Dag 4",s:"Jongen George: 'langzamer lopen, dan kunt u beter kijken.' Synagoge en moskee naast elkaar. Don Alberto: 'Waar kom je echt vandaan?'",v:"De vraag uit de proloog, nu met een eerlijk antwoord.",q:"Als ik dat toch eens wist.",t:"Sociale organisatie"},
+ {n:"De synagoge en de moskee (2)",p:"148–152",d:"Dag 4",s:"Koffie met Don Alberto en Rashid: het geheim is 'parkeerplek'. Moeder: 'Wij zijn Surinamers!' en de Blonde Mozart-grap.",v:"Moeders tegenstrijdigheid; humor als wapen.",q:"je moet gewoon beginnen met een broederlijk parkeerbeleid.",t:"Deel de planeet"},
+ {n:"Zo godvergeten moe",p:"153–157",d:"Flashback",s:"Moeder noemt hem 'Keerti'. Vader drinkt. Ze vluchten naar opvanghuizen. Moeder: 'Ik ben zo godvergeten moe.'",v:"Johannes is op Dag 6 ook 'moe' van het wegduwen.",q:"Ik heet geen Keerti! Ik heet Johannes!",t:"Sociale organisatie"},
+ {n:"Bonnie (1)",p:"158–162",d:"Dag 4",s:"Daniel Coutinhostraat: het huis op neuten. De beroemde trap. Moeder: 'Onder de paramariboom.'",v:"Titel krijgt zijn echte betekenis.",q:"Het is jouw zin, maar ik heb hem van je geleend.",t:"Ervaringen"},
+ {n:"Bonnie (2)",p:"162–165",d:"Dag 4",s:"Moeder begraaft Johannes' navelstreng (29 jaar bewaard) en zingt 'Bonnie'. Johannes kan nog niet reageren.",v:"Het hart van het boek; zijn muur brokkelt af.",q:"Dag navel van Johannes. Mogen de wormen je niet vinden.",t:"Identiteiten"},
+ {n:"Mensen met ander bloed",p:"166–170",d:"Dag 4",s:"Roti bij Krisje; thuis at hij Hollandse pot. Spelletje. Shaffy: 'met ander bloed'. De eerste zoen.",v:"'Ander bloed' wordt positief.",q:"We zoenen op Surinaamse tijd: hij buigt met ons mee.",t:"Identiteiten"},
+ {n:"Naar Commewijne (1)",p:"171–176",d:"Dag 5",s:"Parkiet in een kooi ('barbaars'). 'Hij was een trotse zwarte man.' Lendy. Johannes zegt iets bijtends in de boot.",v:"Opgekropte boosheid → ruzie Dag 6.",q:"Ik weet niet waarom ik dat zo bijtend zeg.",t:"Sociale organisatie"},
+ {n:"Naar Commewijne (2)",p:"176–180",d:"Dag 5",s:"Nieuw-Amsterdam; reïncarnatie ('terug als blanke man'). Mildred: 'moksi'. Moeder: niet halfbloed maar dubbelbloed.",v:"Het belangrijkste woord van het boek.",q:"Dubbelbloed. (…) Twee keer zoveel.",t:"Identiteiten"},
+ {n:"Naar Commewijne (3)",p:"180–184",d:"Dag 5",s:"Zingen: 'Mississippi Goddam'; moeder als diva. Mildred: opa's 'Gino & Ranie' werd gestolen door een Nederlander.",v:"Koloniaal onrecht; Johannes is schrijver zoals opa.",q:"Hij haalde zijn schouders op en begon gewoon weer wat nieuws te schrijven.",t:"De vindingrijke mens"},
+ {n:"De dag van de bevrijding",p:"185–188",d:"Dag 5",s:"Herinnering EK 1988: NL–West-Duitsland. 'Ik kloer twee kanten op': hij bestaat dankzij de hele geschiedenis.",v:"Antwoord op 'opo yu kleur' en 'half'.",q:"door mijn lichaam stroomt het bloed van bezetters, maar ook dat van bevrijders.",t:"Identiteiten"},
+ {n:"Garden State",p:"189–192",d:"Dag 5",s:"Hippe kroeg, de 'avant-garde'. Clyde: 'We worden geleid door oude mannen.' Janice is Clyde's zus.",v:"Jonge generatie; Ramone zegt hetzelfde.",q:"We worden geleid door oude mannen.",t:"Sociale organisatie"},
+ {n:"Mi man pikin (1)",p:"193–198",d:"Dag 6",s:"Brief van vader uit 1985 ('kleine Boeddha', naam Johannes). Tai chi. 'Geschiedenis is verbanden leggen.' Moeder: 'Thuis drukt hij me weg.'",v:"Opbouw naar de ruzie.",q:"Thuis kan ik hem nooit bereiken.",t:"Sociale organisatie"},
+ {n:"Mi man pikin (2)",p:"198–201",d:"Dag 6",s:"Ruzie over 'bosneger'. Johannes zegt alles over zijn jeugd en hoe moe hij is. 'Het is niet jouw schuld.' Moeder: 'Mi man pikin.'",v:"Emotioneel hoogtepunt; alle lijnen komen samen.",q:"Het is niet jouw schuld. (…) Het is gewoon gebeurd.",t:"Identiteiten"},
+ {n:"Er is geen dood",p:"202–205",d:"Dag 6",s:"Ze zoeken en vinden opa's graf. Moeder is bang voor de dood. Ze verliest haar hoed: 'alsof ik hem gedag heb gezegd'.",v:"De reis naar opa is rond.",q:"Er is geen dood. Wel Eeuwig Leven.",t:"Ervaringen"},
+ {n:"Het optreden",p:"206–211",d:"Dag 6",s:"Johannes op de pier van moeder. Lydia stapt van het podium. Ramone. Clyde: 'Hij hoort bij ons!' Applaus voor Virginia. De toespraak begint met de eerste zinnen van het boek.",v:"Cirkelstructuur; Johannes is geaccepteerd.",q:"Hij is geen witmang, hij is geen blaka mang. Maar ook geen blaka bakra!",t:"Identiteiten"},
+ {n:"Massameeting",p:"212–218",d:"Dag 6",s:"Moeder: 'mijn zachtmoedige radicaal'. Massameeting van Bouterse ('alsof de Heere Jezus is neergedaald'). Jaantje: Boedapest over een week.",v:"Antwoord op Rudy's vraag; populisme.",q:"Mijn zachtmoedige radicaal!",t:"Sociale organisatie"},
+ {n:"Naar huis",p:"219–223",d:"Dag 8",s:"Afscheid; 'Kon hesi baka' zonder schaamte. 'Dit is mijn moeder!' Drie generaties stijgen op. 'Mijn naam is Johannes… per navelstreng begraven onder de paramariboom.'",v:"Echo van de proloog; twee thuizen.",q:"Zo stijgen we op: (…) en ik… haar man pikin.",t:"Identiteiten"}
+];
+
+// Quiz questions: type, question, options, correct index, explanation
+const QZ = [
+ ["Waar ben ik?","Je fragment gaat over een hond die in de rivier drijft. Welk hoofdstuk?",["Dagu Swen","Waterkant","Naar Commewijne","Zusjes"],0,"Dag 1, tante Enilda: 'dagu swen' = maar wat doen en toch boven water blijven."],
+ ["Waar ben ik?","Twee politieagenten brengen moeder thuis in een joggingpak.",["Zo godvergeten moe","Weglopen","Een nieuw huis voor mama","Er is geen dood"],1,"Flashback 'Weglopen' (p. 139–143). Johannes is 7."],
+ ["Waar ben ik?","Moeder noemt Johannes 'Keerti'.",["Weglopen","Wat een lelijke baby","Zo godvergeten moe","Mi man pikin"],2,"'Zo godvergeten moe' (p. 153–157). In de ruzie op Dag 6 verwijst hij ernaar."],
+ ["Waar ben ik?","Een Jood en een moslim drinken koffie met Johannes.",["Garden State","De synagoge en de moskee","Hotel Torarica","Joe moes opo yu kleur"],1,"Don Alberto en Rashid; het geheim van vrede is 'parkeerplek'."],
+ ["Waar ben ik?","Johannes graaft een gat in een achtertuin en moeder zingt een liedje.",["Bonnie","Naar huis","Er is geen dood","Mensen met ander bloed"],0,"Dag 4, het ouderlijk huis: de navelstreng wordt begraven, moeder zingt 'Bonnie kom je buiten spelen'."],
+ ["Waar ben ik?","Sascha vraagt op een dakterras waarom Johannes nooit iets zegt over racisme.",["De verjaardag","Between the World and Me","Niet helemaal eerlijk geweest","Jaantje & Johannes"],0,"Flashback naar zijn 29e verjaardag: de oorzaak van de reis."],
+ ["Waar ben ik?","Oom Jimmy legt uit wat 'opo yu kleur' betekent.",["Dagu Swen","Joe moes opo yu kleur","De dag van de bevrijding","Reginald Purperhart"],1,"Dag 3, de brunch in het Ramada."],
+ ["Waar ben ik?","Johannes herinnert zich NL–West-Duitsland, EK 1988.",["Hotel Torarica","De dag van de bevrijding","Ontwaken","Garden State"],1,"Dag 5: 'Dit is de dag van de bevrijding' en 'ik kloer twee kanten op'."],
+ ["Waar ben ik?","Moeder komt op het vliegveld aan met een vilten hoed.",["Dus, landing","Naar huis","Wonen of verblijven","Op bezoek bij Wonny"],2,"Dag 3: 'De koningin is gearriveerd!' en 'Het is een andere zon.'"],
+ ["Waar ben ik?","Oom Rudy leest het gedicht 'Lente in de Winter' en Johannes huilt.",["Reginald Purperhart","De zachtmoedige radicaal","Wi na Sranang-mang!","Naar Commewijne"],1,"Dag 2. Johannes vraagt: 'Kun je niet allebei zijn? Zachtmoedig en radicaal?'"],
+ ["Waar ben ik?","Mildred vertelt dat opa's verhalenbundel gestolen werd.",["Naar Commewijne","Er is geen dood","De zachtmoedige radicaal","Garden State"],0,"Dag 5, Commewijne: 'Gino & Ranie' verscheen onder de naam van een Nederlandse schrijver."],
+ ["Waar ben ik?","Een meisje maakt een selfie met #blakabakra.",["Het optreden","Massameeting","Naar huis","Garden State"],1,"Dag 6, na de toespraak, vlak voor de meeting van Bouterse."],
+ ["Waar ben ik?","Johannes (8) verkoopt flippo's en wordt bespuugd.",["Niet helemaal eerlijk geweest","Weglopen","Proloog","De verjaardag"],0,"Flashback: 'Ik heet Johannes, probeerde ik nog, maar het werkte niet.'"],
+ ["Waar ben ik?","Virginia zegt in een kroeg: 'Hallo, ik ben Esmeralda.'",["Jan & Virginia","Mi man pikin","Het beste nieuws sinds jaren","Wat een lelijke baby"],0,"Flashback: de ontmoeting van de ouders in Den Haag."],
+ ["Wie zegt het?","'Als je hier niet vandaan komt, zul je dat niet begrijpen.'",["Clyde","Oom Jimmy","Tante Enilda","Mildred"],1,"Oom Jimmy legt uit waarom hij zijn vijand Bouterse vergeeft."],
+ ["Wie zegt het?","'Halfbloed moet je niet meer zeggen. Zeg dubbelbloed.'",["Mildred","Jaantje","Moeder","Tante Enilda"],2,"Moeder, bij Mildred in Commewijne (Dag 5)."],
+ ["Wie zegt het?","'Hij is geen witmang, hij is geen blaka mang. Maar ook geen blaka bakra!'",["Yvette","Clyde","Ramone","Pim"],1,"Clyde introduceert Johannes voor zijn toespraak."],
+ ["Wie zegt het?","'Elke korrel van dit land is politiek.'",["Wonny","Oom Rudy","Don Alberto","Leo"],0,"Wonny, in de auto (Dag 4, Zusjes)."],
+ ["Wie zegt het?","'Mijn zachtmoedige radicaal!'",["Oom Rudy","Moeder","Jaantje","Tante Enilda"],1,"Moeder na de toespraak: het antwoord op Rudy's vraag."],
+ ["Wie zegt het?","'Het is niet jouw schuld. Het is gewoon gebeurd.'",["Vader","Johannes","Tante Enilda","Moeder"],1,"Johannes tegen moeder, na de ruzie op Dag 6."],
+ ["Wie zegt het?","'Geschiedenis is verbanden leggen.'",["Jaantje","Oom Jimmy","Tante Enilda","Mildred"],2,"Tante Enilda, na de tai chi (Dag 6)."],
+ ["Wie zegt het?","'Het is wel je land, schat!'",["Moeder","Yvette","Wonny","Tante Enilda"],1,"Yvette bij het ontbijt (Dag 1)."],
+ ["Wie zegt het?","'Proost! Op ander bloed!'",["Jaantje","Sascha","Clyde","Moeder"],0,"Jaantje, als ze vertelt dat ze half-Hongaars is."],
+ ["Wat betekent het?","Wat betekent 'blaka bakra'?",["Een zwarte Hollander: zwart, maar gedraagt zich Nederlands","Een Surinaams gerecht","Een oom die je niet kent","Een politieke partij"],0,"Johannes wordt zo genoemd: te Hollands voor Suriname."],
+ ["Wat betekent het?","Wat betekent 'mi man pikin'?",["Mijn kleine man","Mijn kind, mijn jongen (zoon)","Kom gauw terug","Mijn zwarte popje"],1,"Moeder zegt het tijdens de verzoening (Dag 6)."],
+ ["Wat betekent het?","Wat betekent 'kon hesi baka'?",["Fijn werken","Kom gauw terug","Goedemorgen","Wat jammer"],1,"Tante leert het hem bij het afscheid; hij zegt het 'niet meer uit schaamte'."],
+ ["Wat betekent het?","Wat betekent 'opo yu kleur'?",["Je kleur 'opwaarderen': met iemand lichters trouwen","Je huis verven","Je verkleden","Voor je kleur opkomen"],0,"Koloniaal colorisme; Johannes draait het om: 'ik kloer twee kanten op'."],
+ ["Wat betekent het?","Wat is een 'geuzennaam' (uitleg moeder bij de ruzie)?",["Een scheldwoord dat een groep zelf gaat gebruiken om de controle terug te pakken","Een bijnaam van opa","Een Surinaamse achternaam","Een woord uit het gedicht"],0,"Moeder legt zo uit waarom zij 'neger/bosneger' mag zeggen en anderen niet."],
+ ["Inhoud","Waarom moest moeder in 1973 naar Nederland?",["Ze wilde zelf graag","De familie besliste het, omdat ze slecht deed op school","Ze ging studeren aan de kunstacademie","Ze trouwde met Jan"],1,"'Ze kwam naar Holland omdat ze moest.' Ze wilde kunstenares worden (Andy Warhol)."],
+ ["Inhoud","Wat zit er in de envelop die moeder Johannes geeft?",["Een vliegticket","Gedichten van opa Miel","Een brief van vader","Zijn navelstreng"],1,"O.a. 'Wij zijn Surinamers'."],
+ ["Inhoud","Waar begraaft moeder de navelstreng?",["Op opa's graf","In Commewijne","In de achtertuin van haar ouderlijk huis (onder de paramariboom)","Bij Torarica"],2,"Daniel Coutinhostraat, op de plek van het vroegere boompje."],
+ ["Inhoud","Waarom gebruikt Johannes zijn naam als schild?",["Hij vindt de naam mooi","Om te laten zien dat hij 'een van jullie' is en niet zoals zijn 'gekke' moeder","Omdat zijn opa zo heette","Omdat hij schrijver is"],1,"Proloog, flippo-incident, Weglopen, en de ruzie: 'Ik heet Johannes. Net als Cruijff!'"],
+ ["Inhoud","Hoe begint Johannes' toespraak?",["Met een gedicht van opa","Met de eerste zinnen van het boek","Met een grap over Bouterse","Met een lied"],1,"Cirkelstructuur: 'Dus, ik land in Paramaribo… Welkom thuis, jongen.'"],
+ ["Inhoud","Wat gebeurt er met moeders hoed?",["Ze geeft hem aan Jaantje","Ze verliest hem op de begraafplaats: 'alsof ik opa gedag heb gezegd'","Hij valt in de rivier","Clyde zit erop"],1,"Hoofdstuk 'Er is geen dood' (Dag 6)."],
+ ["Inhoud","Wat stelt Jaantje voor aan het eind?",["Samen in Suriname blijven","Over een week afspreken in Boedapest","Trouwen","Samen een boek schrijven"],1,"'We hebben nu jouw moederland gezien… in dat van mij.'"],
+ ["Thema","Welk IB-thema past het beste bij 'dubbelbloed'?",["Deel de planeet","Identiteiten","De vindingrijke mens","Ervaringen"],0+1,"Identiteiten: van 'half' naar 'twee keer zoveel'."],
+ ["Thema","Welk IB-thema past het beste bij de massameeting van Bouterse?",["Sociale organisatie","Identiteiten","Ervaringen","De vindingrijke mens"],0,"Politiek, populisme, democratie."],
+ ["Thema","Welk IB-thema past het beste bij het gestolen manuscript 'Gino & Ranie'?",["Ervaringen","De vindingrijke mens","Identiteiten","Sociale organisatie"],1,"Kunst, schrijverschap, auteursrecht (ook: kolonialisme → Deel de planeet)."]
+];
+
+// ---------- helpers ----------
+const $=id=>document.getElementById(id);
+const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+function store(k,v){try{if(v===undefined)return JSON.parse(localStorage.getItem(k));localStorage.setItem(k,JSON.stringify(v))}catch(e){return null}}
+
+// ---------- tabs ----------
+function show(tab){
+  const quiz=tab==="quiz";
+  $("quiz").hidden=!quiz; $("io").hidden=quiz;
+  $("t-quiz").setAttribute("aria-selected",quiz); $("t-io").setAttribute("aria-selected",!quiz);
+  store("tab",tab);
+}
+$("t-quiz").onclick=()=>show("quiz"); $("t-io").onclick=()=>show("io");
+
+// ---------- quiz ----------
+let order=[],qi=0,score=0,answered=0;
+function startQuiz(){order=shuffle(QZ.map((_,i)=>i));qi=0;score=0;answered=0;renderQ()}
+function renderQ(){
+  $("qexpl").hidden=true;$("qnext").hidden=true;
+  $("qscore").textContent=score+" / "+answered;
+  $("qbar").style.width=(answered/QZ.length*100)+"%";
+  if(qi>=order.length){
+    $("qtype").textContent="Klaar!";
+    $("qtext").textContent="Je score: "+score+" van "+QZ.length+". "+(score>=QZ.length*0.8?"Top! Je kent het boek.":"Zoek de foute antwoorden op in het studieboek en probeer het nog een keer.");
+    $("qopts").innerHTML="";return;
+  }
+  const [type,q,opts,correct,expl]=QZ[order[qi]];
+  $("qtype").textContent=type;$("qtext").textContent=q;
+  const box=$("qopts");box.innerHTML="";
+  shuffle(opts.map((o,i)=>[o,i])).forEach(([o,i])=>{
+    const b=document.createElement("button");b.className="opt";b.textContent=o;
+    b.onclick=()=>{
+      answered++; if(i===correct)score++;
+      [...box.children].forEach(c=>{c.disabled=true; if(c.dataset.i==correct)c.classList.add("ok")});
+      if(i!==correct)b.classList.add("bad");
+      $("qexpl").textContent=(i===correct?"Goed! ":"Helaas. ")+expl;$("qexpl").hidden=false;
+      $("qnext").hidden=false;$("qscore").textContent=score+" / "+answered;
+      $("qbar").style.width=(answered/QZ.length*100)+"%";$("qnext").focus();
+    };
+    b.dataset.i=i;box.appendChild(b);
+  });
+}
+$("qnext").onclick=()=>{qi++;renderQ()};
+$("qrestart").onclick=startQuiz;
+
+// ---------- proef-IO ----------
+let timer=null,left=0,paused=false,current=null;
+function fmt(s){return String(Math.floor(s/60)).padStart(2,"0")+":"+String(s%60).padStart(2,"0")}
+function run(sec,label){clearInterval(timer);left=sec;paused=false;$("iopause").textContent="Pauze";$("iophase").textContent=label;$("iotimer").textContent=fmt(left);
+  timer=setInterval(()=>{if(paused)return;left--;$("iotimer").textContent=fmt(Math.max(left,0));if(left<=0){clearInterval(timer);$("iophase").textContent=label+": tijd is om!"}},1000)}
+function draw(){
+  const [a,b]=shuffle(CH.map((_,i)=>i));
+  $("iopick").innerHTML="";$("iowork").hidden=true;$("ioans").hidden=true;$("iostartrow").hidden=true;
+  $("ioq").textContent="Je krijgt twee fragmenten. Kies er één.";
+  [a,b].forEach(i=>{const c=CH[i];const el=document.createElement("button");el.className="frag";
+    el.innerHTML="<b></b><span></span>";el.querySelector("b").textContent=c.n;el.querySelector("span").textContent="p. "+c.p+" · "+c.d;
+    el.onclick=()=>choose(i);$("iopick").appendChild(el)});
+  $("iopick").hidden=false;
+}
+function choose(i){
+  current=CH[i];$("iopick").hidden=true;$("iowork").hidden=false;$("ioans").hidden=true;
+  $("ioq").textContent="Jouw fragment: "+current.n+" (p. "+current.p+", "+current.d+")";
+  run(20*60,"Voorbereiding");
+}
+$("iopause").onclick=()=>{paused=!paused;$("iopause").textContent=paused?"Verder":"Pauze"};
+$("iopres").onclick=()=>run(4*60,"Presentatie");
+$("ioshow").onclick=()=>{
+  const c=current,a=$("ioans");a.innerHTML="";
+  [["Samenvatting",c.s],["Verband met het hele boek",c.v],["Citaat voor je PEAL",c.q],["IB-thema",c.t]].forEach(([h,t],k)=>{
+    const H=document.createElement("h3");H.textContent=h;const P=document.createElement("p");P.textContent=k===2?"“"+t+"”":t;if(k===2)P.className="quote";a.append(H,P)});
+  a.hidden=false;
+};
+$("ionew").onclick=draw;$("iodraw").onclick=draw;
+
+// ---------- init ----------
+startQuiz();
+show(store("tab")==="io"?"io":"quiz");
+</script>
