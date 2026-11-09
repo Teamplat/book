@@ -8,6 +8,7 @@ Oefenmateriaal voor de **Individual Oral (HL), Dutch B**: het hele boek in **100
 
 | Bestand | Wat staat erin |
 |---|---|
+| [STUDEERBOEK.md](STUDEERBOEK.md) | ⭐ **Begin hier!** Alles per hoofdstuk: samenvatting NL + EN, verband, personages, mening (PEAL) |
 | [00-overzicht.md](00-overzicht.md) | Samenvatting, personages, de 5 IB-thema's, motieven, citaten, opbouw van je presentatie, handige zinnen, voorbereiding op deel 3 |
 | [01-proloog-dag0-dag1.md](01-proloog-dag0-dag1.md) | Fragment 1–25 (p. 6–55): proloog, aankomst, tante Enilda, opa's gedicht, oom Jimmy, Jaantje |
 | [02-dag2.md](02-dag2.md) | Fragment 26–44 (p. 56–95): oom Rudy, zachtmoedig vs. radicaal, de verjaardag, racisme-flashbacks |

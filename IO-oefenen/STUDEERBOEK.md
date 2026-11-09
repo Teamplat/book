@@ -1621,5 +1621,497 @@ Johannes moves to leave, but Jaantje kisses him, "impatient, soft, rough, all at
 - **L:** Thema **identiteiten**. Ik denk dat mensen met een gemengde achtergrond elkaar vaak goed begrijpen. Liefde kan grenzen overstijgen.
 
 ---
+## 38. Naar Commewijne, deel 1 (p. 171–176)
+*Dag 5 · naar de boot*
 
-> ⏳ *Hoofdstuk 38 en verder komen eraan…*
+### 📖 Samenvatting
+Ook vandaag kan Johannes niet naar Torarica: het maakt hem niet meer uit. Het is half zeven. Sms'jes: moeder ("WONNY ZET ME AF BIJ DE BOOT! (…) IK GA NIET IN MIJN EENTJE IN EEN BOOT!"), vader ("Vergeet niet dat mama 's middags moet slapen, anders gaat ze zich vreemd gedragen") en tante (wat is de dresscode voor de toespraak?).
+
+Moeder is zelfs té vroeg bij de boot. Ze ziet er uitgerust uit, "ze gloeit", "ze wordt hier elke dag twee koppen groter". Ze ziet een gele parkiet in een kooi en zegt fel: "Je doet een vogel niet in een kooi, dat is barbaars." Ze schrikt van haar eigen felheid. Johannes omhelst haar stevig, "als om te laten weten dat ik dat gisteren al zo graag had willen doen". Ze kijkt verlegen: "Je lijkt op je vader. Maar je hebt de neus van je opa. Miel zei altijd: ik ben een neger, maar wel een knappe neger. **Hij was een trotse zwarte man.**"
+
+Moeder is bang voor water: "Als ik uit de boot val, moet je me redden!" Johannes belooft het. De schipper is Lendy, een Javaan. Moeder: "Goddank, een Javaan. Ik word rustig van Javaanse mensen." Ze vertelt hem dat ze nooit getrouwd is ("burgerlijk") en vraagt of hij getrouwd is. Lendy lacht geluidloos: "Zeer gelukkig."
+
+In de boot zegt moeder: "Het is die onzinnige angst. Het zou beter zijn als ik er op mijn leeftijd vanaf kwam, maar dat zal niet meer gebeuren." Johannes zegt: **"Nee, dat zal wel niet meer gebeuren."** Hij zegt het bijtend en weet niet waarom. Moeder schrikt: "Wat bedoel je daarmee?" "Niks." Ze lachen allebei nerveus. "Probleem opgelost!" (maar dat is het niet). Op het water wordt moeder rustig: "Ik ben een Boogschutter, een vuurteken. Vuur wordt geblust door water."
+
+### 🇬🇧 Summary
+Still no Torarica room, and he no longer cares. Texts at 6:30: mum ("WONNY'S DROPPING ME AT THE BOAT! I'M NOT GOING IN A BOAT ALONE!"), dad ("Remember mum needs an afternoon nap or she gets strange"), aunt (dress code for the speech?).
+
+Mum is even early. She looks rested, "glowing", "growing two heads taller every day here". Seeing a yellow parakeet in a cage, she says fiercely: "You don't cage a bird, it's barbaric", then startles at her own fierceness. Johannes hugs her tightly, "as if to say I'd wanted to do that yesterday". Shyly: "You look like your father. But you have grandpa's nose. Miel always said: I'm a negro, but a handsome one. **He was a proud black man.**"
+
+She's scared of water: "If I fall out, you must save me!" He promises. The skipper is Lendy, a Javanese man. Mum: "Thank God, a Javanese. Javanese people calm me." She tells him she never married ("bourgeois") and asks if he is; he laughs silently: "Very happily."
+
+In the boat she says: "It's that silly fear. Better if I got over it at my age, but that won't happen anymore." Johannes says: **"No, that won't happen anymore."** He says it bitingly, not knowing why. She's startled: "What do you mean?" "Nothing." Nervous laughter. "Problem solved!" (it isn't). On the water she calms: "I'm a Sagittarius, a fire sign. Fire is quenched by water."
+
+### 🔗 Verband met het hele boek
+- **De omhelzing**: na de navelstreng (gisteren) kan Johannes nu wel iets laten zien, maar nog niet alles.
+- **De kooi**: symbool voor moeder: opgesloten in Nederland ("een koelcel, Veenendaal"), in haar ziekte, in de rol van "kleine zusje".
+- **"Een trotse zwarte man"**: tegenover Jimmy's twijfel over opa (*Joe moes opo yu kleur*).
+- **De bijtende opmerking**: opgekropte boosheid, die op Dag 6 helemaal naar buiten komt.
+
+### 👥 Personages
+- **Moeder**: stralend, bang voor water, fel, grappig met vreemden.
+- **Johannes**: liefdevol, maar soms onverwacht boos.
+- **Lendy**: rustig, stoer, geduldig.
+
+### 💬 Mening (PEAL)
+- **P:** Ik vind het interessant dat Johannes tegelijk liefdevol en boos is.
+- **E:** *"'Nee, dat zal wel niet meer gebeuren,' zeg ik. Ik weet niet waarom ik dat zo bijtend zeg."*
+- **A:** Zijn boosheid over zijn jeugd zit nog diep. Het komt eruit zonder dat hij het wil. De schrijver bouwt zo spanning op voor de grote ruzie op Dag 6. "Probleem opgelost!" is ironisch.
+- **L:** Thema **sociale organisatie** (familie). Ik denk dat oude pijn in families vaak in kleine opmerkingen naar boven komt.
+
+---
+
+## 39. Naar Commewijne, deel 2 (p. 176–180)
+*Dag 5 · Nieuw-Amsterdam, reïncarnatie en "dubbelbloed"*
+
+### 📖 Samenvatting
+Ze komen aan in Nieuw-Amsterdam, met oude kanonnen van de Nederlanders. Moeder: "Holland heeft New York aan de Engelsen gegeven voor Suriname!" Johannes: "Gelukkig maar, anders was je niet naar Veenendaal gegaan." Moeder zegt: "Je zou het niet zeggen, maar de Duitsers zijn uiteindelijk het minst racistische volk dat ik ken. Ze hebben hun lesje geleerd. Je vader in elk geval. Al geef ik dat nooit toe." Lendy blijft bij de boot: "Ik ben ook een vuurteken."
+
+Ze wandelen over groene velden. Johannes ziet een enorme boom met takken tot de grond: het lijkt op de paramariboom uit zijn fantasie. Dan legt moeder haar idee over **reïncarnatie** uit: na de dood ga je naar de "spiegelsfeer", waar je je leven evalueert. Daarna kun je werken of rusten. "Ik denk dat ik ga rusten. Ik heb een heftig leven gehad." Dan kies je je volgende leven: "**Ik kom terug als blanke man.** Het lijkt me leuk om van de privileges te genieten. Een neger heeft een moeilijk leven." Johannes lacht; zij ook: "Je hebt gelijk, hier moet ik nog aan werken." Ze denkt dat ze terugkomt als tweelingbroer van vader: "Papa, jij en ik: wij zijn een **tweelingziel**." Johannes lacht haar niet uit, want: "wat zou ik toch moeten als er niemand meer is die zulke dingen tegen me zegt?"
+
+Moeder pelt een mango voor hem, net als vroeger. Ze horen de muziek van Nina Simone. Ze komen bij een groot, kleurrijk houten huis: het huis van **Mildred Duysker**, een oude vriendin van moeder. Mildred is groot, heel zwart, beweegt als Nina Simone. "Ik wist dat je zou komen, ik had het gedroomd." De vriendinnen lachen als tienermeisjes. Mildred zegt over Johannes: "Je hebt een knappe zoon. **Moksi's** (mixjes) zijn altijd de mooiste!"
+
+Johannes zegt: "Ja, ik weet het, halfbloed." Moeder wordt serieus: **"'Halfbloed' moet je eigenlijk niet meer zeggen. Het stamt uit de slaventijd. Als je kind was van een blanke en een zwarte, dan had je maar voor de helft bloed. 'Halfbloed' betekende 'half mens'. Vanaf nu moet je iets anders zeggen: dubbelbloed."** Johannes zegt het een paar keer: "Dubbelbloed. Het klinkt eigenlijk wel goed. **Twee keer zoveel.**" Hij belooft dat hij zichzelf vanaf nu zo noemt. Moeder kijkt trots.
+
+### 🇬🇧 Summary
+They arrive at Nieuw-Amsterdam, with old Dutch cannons. Mum: "Holland gave New York to the English for Suriname!" Johannes: "Lucky, or you'd never have gone to Veenendaal." Mum: "You wouldn't think it, but the Germans are the least racist people I know. They learned their lesson. Your father anyway. Though I'll never admit it." Lendy stays with the boat: "I'm a fire sign too."
+
+Walking across green fields, Johannes sees a huge tree with branches to the ground, like the paramariboom of his imagination. Mum explains her **reincarnation** theory: after death you go to the "mirror sphere" to evaluate your life, then work or rest. "I'll rest. I've had an intense life." Then you choose your next life: "**I'll come back as a white man.** I'd enjoy the privileges. A negro has a hard life." Johannes laughs; so does she: "You're right, I need to work on that." She thinks she'll return as dad's twin brother: "Dad, you and I are a **twin soul**." He doesn't mock her: "what would I do if nobody said such things to me anymore?"
+
+She peels a mango for him, like old times. They hear Nina Simone and reach a big colourful wooden house: **Mildred Duysker**'s, mum's old friend. Mildred is big, very dark, moves like Nina Simone: "I knew you'd come, I dreamt it." They laugh like teenage girls. Of Johannes: "Handsome son. **Moksis** (mixed kids) are always the prettiest!"
+
+Johannes: "Yes I know, half-blood." Mum turns serious: **"You shouldn't say 'half-blood' anymore. It comes from slavery: a child of a white and a black person only had half blood. 'Half-blood' meant 'half human'. From now on say: double-blood."** He repeats it: "Double-blood. Actually sounds good. **Twice as much.**" He promises to call himself that. Mum looks proud.
+
+### 🔗 Verband met het hele boek
+- **Dubbelbloed** is het **belangrijkste woord van het boek**. Johannes noemde zichzelf altijd "half" ("kip noch vis", "maar half-Surinaams"). Nu is hij "twee keer zoveel". Uitgewerkt in *De dag van de bevrijding*.
+- Op Dag 6 gebruikt Johannes dit woord in de ruzie: "Niet half, zei je gisteren nog! Dubbel toch?"
+- **Kolonialisme**: Nieuw-Amsterdam/New York verklaart waarom de familie bestaat (*De dag van de bevrijding*).
+- **De boom**: lijkt op de paramariboom van de proloog.
+- **"Tweelingziel"**: de familie hoort bij elkaar, ondanks alles.
+
+### 👥 Personages
+- **Moeder**: spiritueel, grappig, ook wijs; ze geeft hem een nieuw woord en een nieuwe identiteit. Ze geeft (stiekem) toe dat vader een goede man is.
+- **Mildred**: imposant, warm, muzikaal, "helderziend".
+- **Johannes**: accepteert zijn moeder zoals ze is.
+
+### 💬 Mening (PEAL)
+- **P:** Ik vind "dubbelbloed" het belangrijkste woord van het boek.
+- **E:** *"'Dubbelbloed.' Ik spreek het nog eens uit en nog eens. Het klinkt eigenlijk wel goed. Twee keer zoveel."*
+- **A:** Woorden bepalen hoe je naar jezelf kijkt. "Halfbloed" komt uit de slavernij en betekent "half mens". "Dubbelbloed" maakt van een tekort een rijkdom. Het is mooi dat juist zijn moeder hem dit geeft: zij helpt hem zijn identiteit te accepteren.
+- **L:** Thema **identiteiten**. In het Engels zeggen mensen nu "mixed" of "biracial" in plaats van oude woorden. Ik vind het positief dat taal kan veranderen.
+
+---
+
+## 40. Naar Commewijne, deel 3 (p. 180–184)
+*Dag 5 · zangles en het geheim van opa*
+
+### 📖 Samenvatting
+Mildred zegt: "We gaan een stukje zingen." Moeder wil met Johannes "The Sound of Silence" van Simon & Garfunkel zingen: "Het gaat over de oppervlakkigheid die je overal ziet. Ik herken me er heel erg in." Mildred speelt piano, maar moeder en Johannes krijgen ruzie over de tekst ("dance" of "talk"). Mildred: "Genoeg! We houden op met die **bakra-muziek**. Johannes, even niet met die keurige Hollandse stem. Ik wil de Surinamer horen." Moeder: "Zing zwarter! **Er woont in jou een neger.** Je mag geen 'neger' zeggen, maar het is wel waar."
+
+Ze zingen **"Mississippi Goddam"** van Nina Simone (een protestlied tegen racisme). Moeder verandert in een zwarte diva, alsof ze in Carnegie Hall staat: "The name of this tune is Mississippi Goddam, and I mean every word of it!" Johannes kijkt hoe zijn moeder de kamer in een concertzaal verandert: **"Nina Simone. Andy Warhol. Virginia Brouwn."**
+
+Daarna slaapt ("rust") moeder. Johannes drinkt borgoe (rum) met Mildred op de veranda. Ze stemt niet: "Ik heb mijn eigen stem. Politiek is bezigheidstherapie." Johannes vertelt wat oom Rudy zei: opa was een "zachtmoedige" en zijn politieke gedichten waren "breedspraak". Mildred is het er niet mee eens: "Rudy denkt nog altijd dat hij zeventien is. **Miel was geen activist. Hij was een dichter. Die soms de behoefte voelde om te preken.** Preach, brother!" Het gedicht "Wij zijn Surinamers" was nodig in die tijd, toen iedereen in zijn eigen hokje zat.
+
+Dan vertelt Mildred een geheim. Haar vader Oscar was uitgever en vriend van opa. Opa schreef een verhalenbundel, **"Gino & Ranie"**, over een Hindoestaans jongetje en een creools meisje, voor een wedstrijd van de Nederlanders. Oma droomde dat de "hoge heren uit Holland" het zouden verbranden. Opa gaf het toch af. Een jaar later verscheen het boek in Suriname en Nederland, op alle scholen, maar **onder de naam van een Nederlandse schrijver, Reinier van Dijck**. Mildreds vader heeft het nooit kunnen accepteren. En opa? "Hij haalde zijn schouders op en begon gewoon weer wat nieuws te schrijven." Maar Mildred denkt dat opa altijd het gevoel hield dat hij "niet goed genoeg was, als zwarte man".
+
+Johannes zegt: zijn eigen uitgever heet ook Oscar. Mildred: "De kosmos heeft gevoel voor humor! Je opa zou zo trots zijn dat zijn kleinzoon schrijver is. Zorg dat je verhalen niet gestolen worden. Al zal het jou niet zo snel gebeuren: jij bent al flink **opgekloerd**!"
+
+### 🇬🇧 Summary
+Mildred: "Let's sing." Mum wants "The Sound of Silence" with Johannes: "It's about superficiality everywhere; I really relate." They argue about the lyrics ("dance" or "talk"). Mildred: "Enough! No more **bakra music**. Johannes, not that neat Dutch voice. I want to hear the Surinamese." Mum: "Sing blacker! **There's a negro living in you.** You mustn't say 'negro', but it's true."
+
+They sing Nina Simone's **"Mississippi Goddam"** (a protest song against racism). Mum becomes a black diva as if in Carnegie Hall: "The name of this tune is Mississippi Goddam, and I mean every word of it!" Johannes watches her turn the room into a concert hall: **"Nina Simone. Andy Warhol. Virginia Brouwn."**
+
+Mum then "rests". On the veranda over borgoe (rum), Mildred says she doesn't vote: "I have my own voice. Politics is occupational therapy." Johannes repeats Rudy's view that grandpa was "gentle" and his political poems "pompous". Mildred disagrees: "Rudy still thinks he's seventeen. **Miel wasn't an activist. He was a poet who sometimes felt the need to preach.** Preach, brother!" "We are Surinamese" was needed then, when everyone was in their own box.
+
+Then a secret. Her father Oscar was a publisher and grandpa's friend. Grandpa wrote a story collection, **"Gino & Ranie"**, about a Hindustani boy and a Creole girl, for a Dutch competition. Grandma dreamt the "high gentlemen from Holland" would burn it; grandpa handed it in anyway. A year later it was published in Suriname and the Netherlands, used in every school, but **under the name of a Dutch writer, Reinier van Dijck**. Her father never got over it. Grandpa "shrugged and just started writing something new", but Mildred thinks he always felt "not good enough, as a black man".
+
+Johannes says his own publisher is also called Oscar. Mildred: "The cosmos has a sense of humour! Your grandpa would be so proud his grandson's a writer. Make sure your stories aren't stolen, though you're unlikely to suffer that: you've **lightened up** plenty!"
+
+### 🔗 Verband met het hele boek
+- **Moeders droom** (*Jan & Virginia*: Andy Warhol, kunstenares) komt hier even uit: ze is een artiest.
+- **"Er woont in jou een neger"**: maar op Dag 6 zegt ze juist "jij bent geen zwarte man": tegenstrijdig, en dat leidt tot de ruzie.
+- **Opa**: Rudy (zachtmoedig/breedspraak) vs. Mildred (dichter/preken is mooi). De lezer krijgt twee kanten.
+- **Gino & Ranie**: koloniaal onrecht. Opa "glipte door het hek" (*Between the World and Me*), maar de pijn bleef "onder de huid", net als bij Johannes.
+- **"Opgekloerd"** (lichter van kleur) → Johannes draait dit om in het volgende hoofdstuk.
+
+### 👥 Personages
+- **Mildred**: sterke vrouw, muzikaal, onafhankelijk, beschermt opa's nagedachtenis.
+- **Moeder**: bloeit op als zangeres/diva.
+- **Opa Miel** (besproken): getalenteerd, bestolen, liet het niet merken.
+- **Johannes**: verlegen bij het zingen, geschokt door het geheim.
+
+### 💬 Mening (PEAL)
+- **P:** Ik vind het verhaal van het gestolen manuscript schokkend en heel belangrijk.
+- **E:** *"Hij haalde zijn schouders op en begon gewoon weer wat nieuws te schrijven. (…) Maar zulke dingen zitten diep, ergens onder je huid weggestopt."*
+- **A:** Een Nederlander kreeg de eer voor het werk van een zwarte Surinaamse schrijver: een voorbeeld van koloniaal onrecht. Opa reageerde net zoals Johannes altijd deed: doorgaan, niets laten merken, maar de pijn blijft. Johannes maakt als schrijver het werk van opa af.
+- **L:** Thema **de vindingrijke mens** (kunst, auteursrecht) en **deel de planeet** (kolonialisme). Het doet me denken aan culturele toe-eigening: dat westerse mensen werk of cultuur van anderen gebruiken zonder erkenning.
+
+---
+
+## 41. De dag van de bevrijding (p. 185–188)
+*Dag 5 · avond · de belangrijkste gedachte van Johannes*
+
+### 📖 Samenvatting
+Bij het hotel drinkt Yvette bier. Morgen is de toespraak. Johannes moet nog schrijven: "Ik ben meer een sprinter, maar soms moet je de marathon lopen." Yvette: "Dan moet je gewoon steeds opnieuw een stuk sprinten. Dan heb je toch een marathon volgemaakt." En: "Je moet ze morgen wel een beetje peper in hun reet stoppen!"
+
+Op zijn kamer denkt Johannes aan één woord: **dubbelbloed**. Hij herinnert zich iets uit 1988, toen hij drie was: de halve finale van het EK voetbal, **Nederland tegen West-Duitsland**. Vader zit in een oranje pak. Moeder vraagt: "Wie spelen er, Cruijff?" Ze plaagt vader: "Als Duitser kun je beter voor de tegenstander juichen." Vader: "Ik ben géén Duitser!" Moeder zegt: "Wij als Surinamers hebben meer recht om voor Holland te juichen. Wij schenken dat matige ploegje Gullit en Rijkaard." Dan scoort Van Basten: 2-1! Vader springt op: "Gerechtigheid! Eindelijk hebben we ze verslagen!" Hij zoent moeder: "En toch hou ik van je, Gini!" Ze dansen door de kamer. Vader zegt tegen Johannes: **"Dit is de dag van de bevrijding."** Johannes juicht mee, voor papa, mama, Van Basten en Ruud Gullit, "die net als mama uit een boom komt".
+
+Dan krijgt Johannes een groot inzicht. Hij denkt aan wat oom Jimmy zei: "Joe moes opo yu kleur" (je moet je kleur opwaarderen, lichter worden). Maar nu begrijpt hij: **"het is geen eenrichtingsverkeer, ik kloer twee kanten op. Het is niet zo dat ik maar voor de helft besta."** Hij bestaat dankzij de hele geschiedenis: omdat Nederland New York ruilde voor Suriname, omdat er slavernij was (anders was moeder nooit naar Veenendaal gegaan), omdat zijn Duitse grootouders voor Hitler vluchtten en verzetsheld Titus Brandsma hen hielp met hun papieren. "Ik moet de geschiedenis dankbaar zijn, de héle geschiedenis, dus ook de wrede delen." **"Door mijn lichaam stroomt het bloed van bezetters, maar ook dat van bevrijders. Al dat bloed vormt in mijn lijf moeiteloos één stroom, die ervoor zorgt dat mijn hart blijft kloppen. Dat het klopt."**
+
+### 🇬🇧 Summary
+At the hotel Yvette drinks beer; tomorrow is the speech, still unwritten. "I'm more of a sprinter, but sometimes you have to run the marathon." Yvette: "Then keep sprinting stretch after stretch and you'll finish a marathon." And: "Put some pepper up their backsides tomorrow!"
+
+In his room Johannes thinks of one word: **double-blood**. He remembers 1988, aged three: the Euro semi-final, **Netherlands vs West Germany**. Dad in an orange suit; mum: "Who's playing, Cruyff?" She teases: "As a German you should cheer for the other side." "I'm NOT German!" Mum: "We Surinamese have more right to cheer for Holland. We give that mediocre team Gullit and Rijkaard." Van Basten scores, 2-1! Dad leaps up: "Justice! Finally we beat them!" He kisses mum: "And still I love you, Gini!" They dance. Dad tells Johannes: **"This is liberation day."** Johannes cheers for dad, mum, Van Basten and Ruud Gullit, "who, like mum, comes from a tree".
+
+Then a big insight. He recalls Jimmy's "Joe moes opo yu kleur" (upgrade your colour, get lighter). Now he understands: **"it's not a one-way street, I lighten up in two directions. I don't exist only by half."** He exists thanks to all of history: the Dutch trading New York for Suriname; slavery (otherwise mum would never have gone to Veenendaal); his German grandparents fleeing Hitler, helped by resistance hero Titus Brandsma. "I must be grateful to history, the whole of history, including its cruel parts." **"Through my body flows the blood of occupiers, but also of liberators. All that blood forms one stream in me, keeping my heart beating. Making it right."** (In Dutch, "Dat het klopt" means both "that it beats" and "that it's right".)
+
+### 🔗 Verband met het hele boek
+- **Het filosofische hoogtepunt**: hier lost Johannes zijn identiteitsprobleem (in zijn hoofd) op.
+- **"Opo yu kleur"** (Jimmy, Dag 3) → **"ik kloer twee kanten op"**.
+- **Dubbelbloed** (moeder, vandaag): niet half, maar dubbel.
+- **"Ik ben geen Duitser!"** (running gag) krijgt hier een serieuze kant: de Duitse grootouders vluchtten voor Hitler.
+- **Gullit "uit een boom"**: de paramariboom uit de proloog.
+- **Kolonialisme en slavernij** worden onderdeel van zijn eigen verhaal.
+
+### 👥 Personages
+- **Yvette**: geeft goed advies.
+- **Vader (1988)**: oranjegek, verliefd, grappig.
+- **Moeder (1988)**: plagerig, trots op Surinaamse voetballers.
+- **Johannes**: rijp, filosofisch, accepteert zichzelf.
+
+### 💬 Mening (PEAL)
+- **P:** Ik vind dit het belangrijkste inzicht van het boek.
+- **E:** *"Door mijn lichaam stroomt het bloed van bezetters, maar ook dat van bevrijders. Al dat bloed vormt in mijn lijf moeiteloos één stroom."*
+- **A:** Johannes stopt met kiezen tussen Nederlands en Surinaams. Hij accepteert zijn hele geschiedenis, ook de pijnlijke delen. "Dat het klopt" heeft een dubbele betekenis: zijn hart klopt, en zijn identiteit "klopt" (is juist). De voetbalherinnering laat zien dat zijn ouders ook allebei "dubbel" waren: een Duitser die voor Nederland juicht, een Surinaamse die voor Holland juicht.
+- **L:** Thema **identiteiten** en **deel de planeet** (kolonialisme, Tweede Wereldoorlog). Ik denk dat veel mensen een gemengde geschiedenis hebben; het is sterk om die te accepteren in plaats van te kiezen.
+
+---
+
+## 42. Garden State (p. 189–192)
+*Dag 5 · avond uit met Clyde*
+
+### 📖 Samenvatting
+Clyde rijdt Johannes door de drukke stad: overal mensen met partijvlaggen, het is bijna verkiezingstijd. Clyde legt de "drooglegging" (alcoholverbod) uit: "Zogenaamd om de orde te bewaken. Maar Bouta probeert de gelovigen te paaien. Hij doet alles wat God verboden heeft, maar de kerkgangers doen alsof hij Jezus is. We weten allemaal dat hij eerder Tony Montana is (een gangster)."
+
+Ze gaan naar **Garden State**, een hippe kroeg, "zoals in Berlijn of Amsterdam", maar met Surinaamse kleuren. Er zijn creolen, Javanen en Nederlanders (dokters en stagiairs). Clyde flirt met een blonde dokter ("Ik heb zo'n pijn aan mijn hart!"). "Kijk goed: dit zijn de artistieke voortroepen van Paramaribo. Schrijvers, muzikanten, filosofen. De avant-garde!" De barvrouw, Janice, is heel mooi. Een jonge creoolse zanger speelt liedjes van Michael Kiwanuka. Johannes ziet hoe Surinamers en Nederlanders "om elkaar heen dansen": "er wordt hier goed opgekloerd, opa Miel zou trots zijn".
+
+Clyde wordt serieus: "Dit land is letterlijk een goudmijn. We hebben de vruchtbaarste grond. Maar we staan stil. **We worden geleid door oude mannen.**" Hij wilde Johannes dit laten zien, "zodat ik straks niet allemaal tori's van je moet lezen die alleen maar gaan over kip, roti, uitslapen". Hij vindt dat artiesten met Surinaams bloed in Nederland vaak "grappige negers" zijn die "hun eigen volk bespotten": "Beloof je dat je je morgen niet verkleedt als vrouw?"
+
+Janice brengt drankjes: "Alsjeblieft broertje." Ze is Clyde's zus! Clyde wilde eerst zien wat Johannes over haar zou zeggen: "Je bent een nette jongen." Johannes vertelt over Jaantje: "Ik denk dat ik verliefd ben!" Clyde lacht: **"Kom je naar je moederland, ga je alsnog met een bakra!"**
+
+### 🇬🇧 Summary
+Clyde drives through the busy city full of party flags. He explains the alcohol ban: "Supposedly for order, but Bouta's courting believers. He does everything God forbids, yet churchgoers treat him like Jesus. We all know he's more Tony Montana (a gangster)."
+
+They go to **Garden State**, a hip bar "like in Berlin or Amsterdam" but in Surinamese colours, with Creoles, Javanese and Dutch doctors and interns. Clyde flirts with a blond doctor ("My heart hurts so much!"). "Look: Paramaribo's artistic vanguard. Writers, musicians, philosophers." The bartender Janice is very beautiful; a young Creole singer plays Michael Kiwanuka. Johannes watches Surinamese and Dutch "dance around each other": "lots of colour-mixing here, grandpa Miel would be proud".
+
+Clyde turns serious: "This country is literally a gold mine, the most fertile soil. But we're standing still. **We're led by old men.**" He wanted Johannes to see this "so I don't have to read stories from you only about chicken, roti and sleeping in". He dislikes artists of Surinamese descent in Holland who are "funny negroes" mocking their own people: "Promise you won't dress up as a woman tomorrow?"
+
+Janice brings drinks: "Here you go, little brother." She's Clyde's sister! He wanted to see what Johannes would say about her: "You're a decent guy." Johannes says of Jaantje: "I think I'm in love!" Clyde laughs: **"You come to your motherland and still end up with a bakra!"**
+
+### 🔗 Verband met het hele boek
+- **Jonge generatie**: Ramone zegt in zijn toespraak hetzelfde: "Ik ben moe van wachten op dezelfde mensen." Clyde wil later president worden (Dag 6 en 8).
+- **"Oude mannen"**: Bouterse is één van hen (massameeting).
+- **Clichés**: Clyde waarschuwt voor een clichébeeld van Suriname: een kritiek die ook over dit boek zelf gaat.
+- **Opkloeren**: Johannes gebruikt het woord nu positief, als mengen.
+- **Jaantje**: het liefdesverhaal.
+
+### 👥 Personages
+- **Clyde**: grappig, flirterig, maar ook serieus en ambitieus; trots op Suriname, kritisch op de politiek.
+- **Janice**: mooi, slim, plaagt haar broer.
+- **Johannes**: geniet, is verliefd.
+
+### 💬 Mening (PEAL)
+- **P:** Ik vind dat dit hoofdstuk een belangrijk ander beeld van Suriname laat zien: modern, jong en ambitieus.
+- **E:** *"Ik wilde je dit laten zien (…) zodat ik straks niet allemaal tori's van je moet lezen die alleen maar gaan over kip, roti, uitslapen."*
+- **A:** Clyde wil niet dat Suriname alleen als exotisch of grappig wordt gezien. Het land heeft potentieel, maar wordt "geleid door oude mannen". Ook zijn kritiek op Surinaamse komieken in Nederland is interessant: humor kan ook stereotypen versterken.
+- **L:** Thema **sociale organisatie** (jongeren en politiek) en **de vindingrijke mens** (kunst). Ik denk dat jongeren overal de toekomst willen veranderen, maar vaak niet gehoord worden.
+
+---
+
+## 43. Mi man pikin, deel 1 (p. 193–198)
+*Dag 6 · de brief van vader, tai chi en de Waterkant*
+
+### 📖 Samenvatting
+Johannes heeft tot diep in de nacht aan zijn toespraak geschreven. Sms'jes: tante (tai chi in de Palmentuin), moeder ("HEB GEDROOMD VAN DOLFIJNEN! DOL FIJN! HEB JE 'M DOOR?") en vader: "Zorg goed voor haar. Veel liefs **kleine Boeddha**." Zo noemde vader hem vroeger, als hij Johannes op zijn schouders droeg.
+
+Johannes herinnert zich een brief die hij ooit vond in een lp van Otis Redding. Vader schreef hem in 1985 in New Delhi aan de zwangere moeder: "Mijn liefste Gini (…) Hoe gaat het met de kleine Boeddha in de buik? Ik mis jullie zo. (…) Ik weet dat je hem Daniël wilt noemen, maar wil je niet toch nog eens nadenken over **Johannes**? (…) Ik hou van je… **Esmeralda**."
+
+In de Palmentuin doen moeder en tante tai chi. Moeder praat steeds ("Komt zo ook nog de tafel borstelen? Dat is mijn lievelingspose."). De leraar: "Silence!" Later kibbelen de zusjes. Tante zegt tegen Johannes: "Ik mag niet over het verleden praten van Gini. Ze wil het Paramaribo van nu beleven. Maar ik zeg: **geschiedenis is verbanden leggen.**" Moeder vertelt dat ze vader belde over de "navelbegrafenis": "Ik ben eigenlijk een Brouwn van liefde." Vader: "Eerder een Brouwn van ergernis." Moeder vraagt tante mee naar het graf van opa: "Pa's graf is geen geschiedenis, want er is geen dood, alleen eeuwig leven."
+
+Moeder en Johannes lopen langs de Waterkant. Moeder: "Is er geen dame voor wie je een sieraad kunt kopen? Mijn biologische klok tikt (ze wil oma worden)." Johannes: "Ik heb wel iemand ontmoet. Je ziet haar vanavond." Moeder: "Mijn zoon met een Surinaamse!" Johannes: "Wacht maar af." Bij een kruispunt staat moeder stil: **"Hier is het mooi, ik ben zo high! Zonder medicatie nog wel. Het leeft!"** Ze danst. Johannes kan niet dansen: "Blaka bakra."
+
+Ze zitten op een bankje aan het water met een flesje Fernandes. Johannes vraagt of ze nog op de Marinebrug wil. Moeder: "Ik weet niet of ik dat durf. Toen ik er mijn eerste zoen kreeg, was ik niet bang." Ze bekijkt zijn gezicht en zegt: "Het is niet te geloven. Ik heb elke dag contact met mijn zoon. **Thuis kan ik hem nooit bereiken. Ik krijg voicemail of hij drukt me weg.**" Johannes voelt een knoop in zijn maag. "Het is alsof ik die verhalen in Holland niet aan je kwijt kan." Ze zoekt weer goedkeuring in zijn ogen, net als na het liedje "Bonnie". Johannes wil haar geruststellen, maar het lukt niet. Hij denkt: ze heeft mijn navelstreng begraven, ze laat me haar wereld zien, ze is niet meer ziek. "Ik mag haar hier dan toch eindelijk zien bloeien."
+
+### 🇬🇧 Summary
+Johannes wrote his speech until late. Texts: aunt (tai chi in the Palmentuin), mum ("DREAMT OF DOLPHINS! DOL FIJN! GET IT?"), and dad: "Take good care of her. Love, **little Buddha**," his old nickname when dad carried him on his shoulders.
+
+He remembers a letter found in an Otis Redding LP, written by dad in New Delhi in 1985 to pregnant mum: "My dearest Gini (…) How's the little Buddha in your belly? I miss you so. (…) I know you want to call him Daniel, but won't you reconsider **Johannes**? I love you… **Esmeralda**."
+
+In the Palmentuin mum and aunt do tai chi; mum keeps chatting ("Will we do brushing the table? My favourite pose!"); the teacher: "Silence!" Later aunt tells Johannes: "I'm not allowed to talk about Gini's past; she wants to live today's Paramaribo. But I say: **history is making connections.**" Mum called dad about the "navel burial": "I'm a Brouwn of love." Dad: "More a Brouwn of irritation." She invites aunt to grandpa's grave: "Pa's grave isn't history, because there's no death, only eternal life."
+
+Walking the Waterkant, mum: "No lady to buy jewellery for? My biological clock is ticking" (she wants grandchildren). Johannes: "I met someone; you'll see her tonight." Mum: "My son with a Surinamese girl!" "Wait and see." At a crossroads she stops: **"It's beautiful here, I'm so high! Without medication! It's alive!"** She dances; he can't: "Blaka bakra."
+
+On a bench by the water with a Fernandes soda, he asks if she'll still go on the Marine Bridge. "I don't know if I dare. When I got my first kiss there, I wasn't scared." Studying his face: "Unbelievable. I'm in touch with my son every day. **At home I can never reach him. I get voicemail or he rejects my call.**" A knot in his stomach. "It's as if I can't share those stories with you in Holland." She searches his eyes for approval again, as after "Bonnie". He wants to reassure her but can't. He thinks: she buried my cord, shows me her world, isn't ill anymore. "Here I finally get to see her bloom."
+
+### 🔗 Verband met het hele boek
+- **De brief**: verklaart de naam **Johannes** (vader koos hem) en laat de liefde tussen de ouders zien. "Esmeralda" (*Jan & Virginia*).
+- **"Geschiedenis is verbanden leggen"**: dit is precies wat het boek doet: heden en verleden verbinden.
+- **"Ik ben zo high, zonder medicatie"**: tegenover de ziekte in de flashbacks; Suriname maakt haar gezond en blij.
+- **"Hij drukt me weg"** → leidt direct naar de ruzie (deel 2).
+- **De blik van goedkeuring** (*Bonnie*): "het blijft hetzelfde liedje": Johannes begrijpt het nu.
+
+### 👥 Personages
+- **Vader** (via sms en brief): teder, liefdevol, "kleine Boeddha".
+- **Moeder**: gelukkig, speels, maar ook verdrietig dat haar zoon afstand houdt.
+- **Tante Enilda**: wijs ("verbanden leggen").
+- **Johannes**: ziet zijn moeder bloeien, maar kan zijn gevoel nog niet laten zien.
+
+### 💬 Mening (PEAL)
+- **P:** Ik vind de zin van moeder over de voicemail heel eerlijk en pijnlijk.
+- **E:** *"Thuis kan ik hem nooit bereiken. Ik krijg altijd voicemail of hij drukt me weg."*
+- **A:** In Suriname hebben moeder en zoon elke dag contact, thuis niet. Moeder voelt dat Johannes haar al jaren op afstand houdt. Zijn knoop in de maag laat zien dat hij zich schuldig voelt. Dit is de opbouw naar het conflict.
+- **L:** Thema **sociale organisatie** (familie). Ik denk dat veel jongeren hun ouders weleens "wegdrukken"; dit hoofdstuk laat zien hoe dat voelt voor de ouder.
+
+---
+
+## 44. Mi man pikin, deel 2 (p. 198–201) ⭐⭐⭐
+*Dag 6 · de ruzie en de verzoening*
+
+### 📖 Samenvatting
+Een dikke oudere vrouw met zware tassen loopt voorbij. Moeder praat vriendelijk met haar. Als ze weg is, zegt moeder: **"Een bosneger, maar nooit zo noemen, hè?"** Johannes zegt fel (zijn stem trilt): **"Waarom mag jij het eigenlijk wel zo noemen?"** Moeder schrikt: "Dat hoef ik toch niet uit te leggen? **Ik ben een zwarte vrouw. Jij bent geen zwarte man.**" Johannes: "Maar toch wel een beetje?" Moeder: "Een beetje is niet helemaal. Voor de helft." Johannes: **"Niet half, zei je gisteren nog! Dubbel toch? Of nu weer niet?"**
+
+Moeder legt uit: "'Neger' was een scheldwoord. Omdat het pijn deed, zijn we het zelf gaan gebruiken, als geuzennaam. Zo pakten we de controle terug. Maar dat werkt niet als andere mensen het gebruiken." Johannes: "Andere mensen, noem jij dat." Moeder: "Ik kan het niet uitleggen. Aan je vader ook niet, al veertig jaar. Jullie zijn Hollanders, hai baia!" Johannes staat op: "Nee mam, nu even geen gehaibaia meer. (…) Als het erop aankomt, ben ik dus gewoon toch niet meer dan je blaka bakra. Een Hollander." Hij loopt weg. Moeder roept: **"Je hebt nooit iets anders willen zijn, Johannes!"**
+
+Johannes draait zich om: "Dat is zo. En heb je ook enig idee waarom?" En dan zegt hij alles: **"Hallo mensen, ik ben Johannes. Niets aan de hand. Ik ben niet zoals mijn gekke moeder. Ik loop niet joggend op de begraafplaats. Ik brabbel niet dat mijn zoon Keerti heet. Ik loop niet weg van huis. Ik heet Johannes. Net als Cruijff! Ik spreek ABN. Ik ben beleefd. Ik ben een Hollander, zoals de rest. Mag ik erbij? Gewoon, ergens bij?"** En: "Weet je, mama: het kost… zo… veel… energie. Altijd maar te laten zien dat ik oké ben. Dat ik jou niet ben. Dat ik niet ben waar ik vandaan kom. (…) Om mijn hoofd boven water te houden. **En het stomme is: ik heb nu pas door hoe moe ik daarvan ben.**"
+
+Moeder huilt, met haar gezicht samengeknepen. Ze lijkt opeens heel klein. Johannes kan zijn pantser niet meer ophouden: **"Ik leg mijn wapens af."** Hij ziet een meisje dat vóór hem leefde, met geheimen waar hij nooit helemaal bij kan. Hij ontspant en zegt: **"Het is niet jouw schuld."** "Nee?" **"Nee. Het is gewoon gebeurd."** Hij ziet: haar gezicht is ook zijn gezicht. Hij lacht: "Ze hebben je in een koelcel gestopt. Veenendaal. Mijn gunst!" Moeder lacht mee: "Veenendaal. De Klomp!"
+
+Moeder loopt langzaam naar hem toe, legt haar hand op zijn wang: **"Mi pikin, mi man pikin."** (mijn kind, mijn jongen). Ze veegt een traan van zijn wang. Ze zegt: "Weet je wat ik vannacht dacht? Wat ik vroeger dacht dat mijn toekomst zou zijn, die leef ik nu. **Dit is mijn toekomst!**" Johannes denkt: ik ben jouw toekomst. Ze omhelzen elkaar stevig. Hij legt zijn hoofd op haar schouder **"en ruik thuis"**.
+
+### 🇬🇧 Summary
+A heavy older woman with big bags passes; mum chats kindly. Afterwards: **"A bosneger, but never call them that, eh?"** Johannes, voice trembling: **"Why are YOU allowed to call them that?"** She's startled: "Do I need to explain? **I'm a black woman. You're not a black man.**" "But a little bit?" "A little isn't fully. Half." **"Not half, you said yesterday! Double, right? Or not anymore?"**
+
+Mum explains: "'Negro' was an insult. Because it hurt, we started using it ourselves, as a reclaimed word. That took back control. But it doesn't work if other people use it." "Other people, you call it." "I can't explain. Not to your father either, for forty years. You're Dutch, hai baia!" He stands: "No mum, no more hai-baia now. (…) When it comes down to it, I'm just your blaka bakra. A Dutchman." He walks off. She shouts: **"You never wanted to be anything else, Johannes!"**
+
+He turns: "True. And do you have any idea why?" Then it all comes out: **"Hello people, I'm Johannes. Nothing wrong. I'm not like my crazy mother. I don't go jogging in cemeteries. I don't mumble that my son is called Keerti. I don't run away from home. My name is Johannes. Like Cruyff! I speak standard Dutch. I'm polite. I'm Dutch like everyone else. Can I join? Just, belong somewhere?"** And: "You know, mum, it takes… so… much… energy. Always showing I'm okay. That I'm not you. That I'm not where I come from. (…) Keeping my head above water. **And the stupid thing is, only now do I realise how tired I am of it.**"
+
+Mum cries, face scrunched, suddenly very small. He can't hold up his armour: **"I lay down my weapons."** He sees a girl who lived before him, with secrets he can never fully reach. He relaxes: **"It's not your fault."** "No?" **"No. It just happened."** Her face is also his face. He laughs: "They put you in a freezer. Veenendaal!" She laughs too: "Veenendaal. De Klomp!"
+
+She walks slowly to him, hand on his cheek: **"Mi pikin, mi man pikin."** (my child, my boy) and wipes a tear from his cheek: "You know what I thought last night? The future I imagined as a girl, I'm living it now. **This is my future!**" He thinks: I am your future. They hug tightly; head on her shoulder, **"I smell home"**.
+
+### 🔗 Verband met het hele boek
+- **Het emotionele hoogtepunt** van het boek. Alle lijnen komen samen:
+  - "Jij mag het nooit zo noemen" (*Waterkant*, *Joe moes opo yu kleur*) → de ruzie.
+  - "Dubbelbloed" (Dag 5) → "Niet half, zei je gisteren nog!"
+  - De flashbacks (*Weglopen*, *Zo godvergeten moe*: begraafplaats, Keerti, weglopen) → Johannes noemt ze allemaal.
+  - De naam Johannes als schild → "Ik heet Johannes. Net als Cruijff!"
+  - "Zo godvergeten moe" (moeder) → "hoe moe ik daarvan ben" (Johannes).
+  - "Niemands schuld" (*Wi na Sranang-mang!*) → "Het is niet jouw schuld."
+  - Het pantser/de muur → "Ik leg mijn wapens af."
+  - "Ruik thuis": bij tante Enilda rook hij ook de geur van moeder.
+- Daarna: "Ooit zal ik vloeiend Sranang spreken." Hij omarmt de taal.
+
+### 👥 Personages
+- **Johannes**: eindelijk eerlijk; boos, dan kwetsbaar, dan vergevend. Hij groeit.
+- **Moeder**: geschrokken, verdrietig, liefdevol; geeft toe dat ze het niet kan uitleggen.
+
+### 💬 Mening (PEAL)
+- **P:** Dit is voor mij het belangrijkste fragment van het hele boek, omdat Johannes hier eindelijk alles zegt wat hij voelt.
+- **E:** *"'Het is niet jouw schuld,' zeg ik. 'Nee?' vraagt ze. 'Nee,' zeg ik. 'Het is gewoon gebeurd.'"*
+- **A:** De ruzie begint over een woord, maar gaat eigenlijk over iets veel groters: zijn hele jeugd. Hij duwde zijn Surinaamse kant weg, omdat die hem deed denken aan zijn zieke moeder. Door het uit te spreken, kan hij haar vergeven. "Mi man pikin" laat zien dat hij nu echt haar zoon is, en er dus ook bij hoort.
+- **L:** Thema **identiteiten** en **sociale organisatie** (familie, vergeving). Ik denk dat het heel moeilijk is om je ouders te vergeven voor iets wat je jeugd zwaar maakte. Dit fragment laat zien dat eerlijk praten kan helen. Ook de vraag over geuzennamen (wie mag welk woord zeggen) is nog steeds actueel.
+
+---
+
+## 45. Er is geen dood (p. 202–205)
+*Dag 6 · het graf van opa*
+
+### 📖 Samenvatting
+Johannes, moeder en tante gaan naar de begraafplaats. De graven staan boven de grond, met gekleurde tegels: "als geparkeerde oldtimers". Een norse vrouw van de begraafplaats helpt zoeken, want er is geen plattegrond. Ze lopen allemaal een andere kant op. Moeder zegt: "Ik kom niet graag op begraafplaatsen. **Ik ben bang voor de dood.** Het is die angst dat er toch niets is. Dat ik mezelf al die tijd voor de gek heb gehouden." Johannes grapt: "Als je dood bent, kom je in de spiegelsfeer en kom je terug als blanke man." Ze lacht: "Je bent net je vader."
+
+Johannes zigzagt tussen de graven en rekent leeftijden uit. Hij hoopt dat hij degene is die opa vindt. Maar dan roept moeder: "Johannes! Miel is hier!" Het graf ligt "gewoon aan het begin". Blauwe tegels, en pilaren met blauw-witte, oer-Hollandse tegeltjes. Er staat: **André Emiel Gilbert Brouwn, geboren 6-6-1912, overleden 10-11-1977.** Moeder en tante blijven op afstand: "Ik loop niet over graven, dat vind ik respectloos." "Zo dun ben ik niet." Ze lopen terug naar de taxi. Johannes staat alleen bij het graf en leest: **"Er is geen dood. Wel Eeuwig Leven."**
+
+In de taxi schrikt moeder: "Mijn hoed! Waar is mijn hoed?" Ze zijn hem verloren op de begraafplaats. Johannes wil teruggaan. Maar moeder lacht: "Geweldig! Pa had ook altijd zo'n vilten, grijze hoed. **Het heeft zo moeten zijn. Nu is het net alsof ik hem gedag heb gezegd met die hoed van me.**" "Je denkt toch niet dat ik weer over al die graven ga lopen? Die dooien. Vriendelijk bedankt!" Iedereen moet lachen: tante (hoog), Johannes (bariton), de taxichauffeur (bas): "We rijden de stad binnen als een klein orkest."
+
+### 🇬🇧 Summary
+Johannes, mum and aunt visit the cemetery: graves above ground with coloured tiles, "like parked vintage cars". A grumpy caretaker helps search, since there's no map. Mum: "I don't like cemeteries. **I'm afraid of death.** The fear that there's nothing after all, that I've been fooling myself." Johannes jokes: "When you die you go to the mirror sphere and return as a white man." She laughs: "You're just like your father."
+
+Johannes zigzags among graves, calculating ages, hoping to be the one who finds grandpa. But mum calls: "Johannes! Miel is here!" It's "right at the entrance": blue tiles, pillars with blue-and-white, very Dutch tiles. **André Emiel Gilbert Brouwn, born 6-6-1912, died 10-11-1977.** Mum and aunt keep their distance: "I don't walk on graves, it's disrespectful." "I'm not that thin." They go back to the taxi; alone at the grave Johannes reads: **"There is no death. Only Eternal Life."**
+
+In the taxi mum panics: "My hat! Where's my hat?" Lost at the cemetery. Johannes wants to go back, but she laughs: "Wonderful! Pa always had a grey felt hat too. **It was meant to be. It's as if I said goodbye to him with my hat.**" "You think I'm walking over all those graves again? Those dead people? No thanks!" Everyone laughs, aunt (high), Johannes (baritone), the driver (bass): "We drive into town like a small orchestra."
+
+### 🔗 Verband met het hele boek
+- **De reis naar opa** is rond: de foto (proloog) → de gedichten (*Wi na Sranang-mang!*, Rudy, Mildred) → het graf.
+- **"Er is geen dood"**: opa leeft voort in zijn gedichten en in zijn kleinzoon de schrijver.
+- **De hoed** (sinds de aankomst van moeder) wordt een afscheidscadeau voor opa.
+- **Begraafplaats**: vroeger vond de politie moeder verward op een begraafplaats. Nu komt ze er bewust, met haar familie.
+- **Hollandse tegeltjes** op een Surinaams graf: opa was ook "dubbel".
+- **Humor na verdriet**: typisch voor deze familie.
+
+### 👥 Personages
+- **Moeder**: bang voor de dood, eerlijk, maar maakt er grappen over; geeft haar hoed "aan opa".
+- **Tante Enilda**: voorzichtig, respectvol.
+- **Johannes**: wil opa zelf vinden; staat als enige bij het graf.
+- **De beheerder**: nors, maar behulpzaam.
+
+### 💬 Mening (PEAL)
+- **P:** Ik vind het mooi dat het verloren hoedje een symbool wordt voor afscheid.
+- **E:** *"Nu is het net alsof ik hem gedag heb gezegd met die hoed van me."*
+- **A:** Moeder verandert iets vervelends (haar lievelingshoed kwijt) in iets moois. De tekst "Er is geen dood" past bij de boodschap van het boek: opa leeft voort via zijn kleinzoon. Het eindigt met lachen "als een klein orkest": de familie is samen, na de verzoening.
+- **L:** Thema **ervaringen** (dood, herdenken). In veel culturen bezoeken mensen graven van voorouders; ik denk dat dat helpt om te weten waar je vandaan komt.
+
+---
+
+## 46. Het optreden (p. 206–211)
+*Dag 6 · de toespraak*
+
+### 📖 Samenvatting
+Bij Eco Resort zegt de receptioniste blij: "Uw kamer in Torarica is eindelijk gereed!" En ze bieden een luxe suite aan. Johannes wil eigenlijk blijven, maar zijn kamer is al aan iemand anders gegeven. In Torarica loopt hij meteen naar **de pier** aan de rivier. Op het bordje staat: kinderen niet zonder ouders. "Ik ben bijna dertig, dus loop ik zonder vader of moeder de pier op." Hij kijkt naar de zonsondergang en denkt aan zijn moeder als meisje: uit huis geslopen via de beroemde trap, met Cynthia op de brommer, hier op de pier. "Hier droomde ze ervan om Andy Warhol te zijn en maakte ze zich een voorstelling van de bevroren regen aan de andere kant van de zee."
+
+In de congreszaal vecht Yvette met een beamer. Pim en Lydia zijn er. Clyde komt: hij is de presentator (MC). Hij geeft advies: Surinamers houden niet van preken. "Als jij dat doet, denken ze: **komt die nep-Surinamer ons nu vertellen hoe we hier moeten leven?**" "Zet de boel hier in de fik!"
+
+De zaal zit bomvol: Javanen, Hindoestanen, creolen, Chinezen. Naast Johannes zit de Nederlandse ambassadeur met zijn vrouw. Achterin zitten moeder, tante en Wonny: "drie diva's, The Supremes". Moeder balt haar vuist: zet 'm op!
+
+Lydia stapt van het podium af: "Ik wil niet op de verhoging staan. Vandaag dragen wij het over aan jullie. **Dit is jullie podium.**" De zaal waardeert dat. Daarna spreekt Ramone, een jonge politicus in een ouderwets pak. Hij praat traag, met moeilijke woorden. Johannes luistert eerst niet, maar ziet dat zijn moeder heel goed luistert. Dan hoort hij één zin: **"Ik ben er zo moe van dat we telkens maar weer moeten wachten op steeds dezelfde mensen, die zeggen dat we moeten blijven wachten."**
+
+Clyde introduceert Johannes: **"Hij is geen witmang, hij is geen blaka mang. Maar ook geen blaka bakra! (…) Hij hoort bij ons!"** Hij geeft Johannes 20 Surinaamse dollar: "Ik word later president van Suriname. Mocht jij later president van Nederland worden, dan kan je niet zeggen dat ik nooit wat voor je gedaan heb!" De zaal ontploft van het lachen, en Johannes ontspant. Achterin ziet hij Jaantje. Hij begint: "Het is een week geleden dat ik hier voor het eerst voet aan de grond zette, in het land van mijn moeder, die hier vanavond ook is…" Hij vraagt een applaus voor **Virginia Brouwn**. Moeder springt op en neemt het applaus aan "alsof ze drie uur een legendarisch concert had gegeven". Dan begint Johannes zijn toespraak, met precies de eerste zinnen van het boek: **"Dus, ik land in Paramaribo. Het heeft negenentwintig jaar geduurd (…) Toch zegt de zwarte piloot: 'Welkom thuis, jongen.'"**
+
+### 🇬🇧 Summary
+At Eco the receptionist beams: "Your Torarica room is finally ready!", even a luxury suite. Johannes would rather stay, but his room's been given away. At Torarica he goes straight to **the pier**. A sign says children only with parents: "I'm almost thirty, so I walk onto the pier without father or mother." At sunset he pictures his mother as a girl, sneaking down the famous stairs, riding with Cynthia on a moped to this pier: "Here she dreamt of being Andy Warhol and imagined the frozen rain across the sea."
+
+In the conference room Yvette fights a projector; Pim and Lydia are there; Clyde is MC. His advice: the Surinamese don't like sermons; if Johannes preaches they'll think: **"Is that fake Surinamese telling us how to live here?"** "Set this place on fire!"
+
+The hall is packed: Javanese, Hindustanis, Creoles, Chinese. Beside Johannes sit the Dutch ambassador and his wife; at the back mum, aunt and Wonny, "three divas, The Supremes". Mum raises her fist: go for it!
+
+Lydia steps off the stage: "I don't want to stand above you. Today we hand it over. **This is your stage.**" The crowd appreciates it. Ramone, a young politician in an old-fashioned suit, speaks slowly with big words; Johannes drifts off, but sees his mother listening intently, then catches one line: **"I'm so tired of always waiting for the same people who tell us to keep waiting."**
+
+Clyde introduces him: **"He's no white man, he's no black man. But no blaka bakra either! (…) He belongs to us!"** He hands Johannes 20 SRD: "I'll be president of Suriname. If you become president of the Netherlands, you can't say I never did anything for you!" The hall explodes with laughter; Johannes relaxes. At the back he sees Jaantje. He begins: "A week ago I first set foot here, in my mother's country, and she's here tonight…" and asks applause for **Virginia Brouwn**. She jumps up and accepts it "as if she'd just given a three-hour legendary concert". Then he starts his speech with the book's opening lines: **"So, I land in Paramaribo. It took twenty-nine years (…) Yet the black pilot says: 'Welcome home, boy.'"**
+
+### 🔗 Verband met het hele boek
+- **Cirkelstructuur**: de toespraak begint met de eerste zinnen van het boek. Het boek **is** eigenlijk de toespraak.
+- **Clyde**: van "blaka bakra" (Dag 1) naar **"hij hoort bij ons!"**: Johannes is geaccepteerd. Antwoord op Jimmy's "als je hier niet vandaan komt".
+- **De pier** (*Joe moes opo yu kleur*, *Bonnie*): Johannes staat waar zijn moeder stond.
+- **Ramone's "moe"**: hetzelfde woord als moeder ("zo godvergeten moe") en Johannes ("hoe moe ik daarvan ben").
+- **Het applaus voor moeder**: haar droom (een artiest op een podium) komt even uit.
+- **Running gag Torarica** eindigt.
+
+### 👥 Personages
+- **Johannes**: nerveus, maar ontspannen en trots; hij eert zijn moeder.
+- **Moeder**: "gloeit", geniet van de aandacht.
+- **Clyde**: grappig, warm, neemt Johannes op in de groep.
+- **Lydia**: respectvol, geen "neokolonist".
+- **Ramone**: saai, maar met een belangrijke boodschap.
+
+### 💬 Mening (PEAL)
+- **P:** Ik vind de introductie van Clyde het moment waarop Johannes echt geaccepteerd wordt.
+- **E:** *"Hij is geen witmang, hij is geen blaka mang. Maar ook geen blaka bakra! (…) Hij hoort bij ons!"*
+- **A:** In het begin van het boek was Johannes een "blaka bakra", een buitenstaander. Nu zegt Clyde voor een volle zaal dat hij erbij hoort. Johannes geeft het eerste applaus aan zijn moeder: een teken van de verzoening. En omdat de toespraak met de eerste zinnen van het boek begint, begrijp je: het hele boek is zijn verhaal aan Suriname.
+- **L:** Thema **identiteiten** en **de vindingrijke mens** (de kracht van verhalen vertellen). Ik denk dat iemand met een gemengde achtergrond een brug kan zijn tussen twee landen.
+
+---
+
+## 47. Massameeting (p. 212–218)
+*Dag 6 · na de toespraak en de meeting van Bouterse*
+
+### 📖 Samenvatting
+Na de toespraak wil een meisje een selfie met Johannes: "Ik vond het mooi en grappig wat u vertelde!" Tante: "Je bent echt een Brouwn. Een redenaar!" Wonny: "De jonge Surinamers vonden je tori goed. Ik hoop dat zij die revolutie gaan zetten!" Dan komt Jaantje erbij. Moeder: "Ik dacht dat je Surinaams was." Jaantje: "Niet dat ik weet, mevrouw." Tante: "Je bent knap." Wonny: "Je stond vooraan toen God geïnspireerd was." Moeder: **"Ben jij degene die me kleinkinderen gaat geven?"** "Mama!" Jaantje lacht: "U moet nog geduld hebben. Maar u heeft een hele leuke zoon." Moeder: "Ik vind het leuk dat hij zo zichzelf is geworden. Eerst kon hij wat drammerig zijn, maar hij heeft het losgelaten. **Mi tranga boy naga wan saf'ati! Mijn zachtmoedige radicaal!**" Het meisje van de selfie laat haar Instagram zien: "Net geluisterd naar deze white boy! #onfire **#blakabakra**." Iedereen lacht.
+
+Clyde en Yvette gaan naar de **massameetings**, de laatste grote campagnebijeenkomsten. Jaantje gaat mee (voor haar onderzoek), en Johannes ook. Moeder gaat liever een borrel drinken met Wonny en tante: "Naar Bouta luisteren? Jullie liever dan ik." In de auto pakt Jaantje Johannes' hand.
+
+Bij het veld van Ocer is het chaos: auto's, brommers, muziek, duizenden mensen in het paars van de NDP, vlaggen "NDP WERKT!", eetkraampjes. Een enorm stadion. "Kermis in de hel." Jaantje leidt hem door de menigte. Mensen staren naar haar (blond, blauwe ogen). De spreker roept: "Desiré Delano Bouterse!" De menigte ontploft: **"alsof de Heere Jezus zelf is neergedaald"**. Bouterse is "een broos mannetje" met een bril. Mensen roepen: "BOUTA! FIVE MORE JARIES!" Een man naast Johannes huilt. Bouterse kondigt zijn vicepresident aan: Ashwin Adhin, een Hindoestaan. Jaantje: "Big news! Zo probeert hij ook de Hindoestaanse kiezers te pakken. Zo sluw, zo slim!"
+
+Dan zegt Jaantje dat ze vannacht met de bus naar Nickerie gaat voor interviews. Maar: "Ik heb een briljant plan. We hebben nu jouw moederland gezien. **Als we nou over een week afspreken in dat van mij. In Boedapest.**" Johannes' maag "voelt als een achtbaan". "Het duurt nog lang, zeven dagen, maar we hebben de tijd toch?" Johannes: **"Wat mij betreft alle tijd van de wereld."**
+
+### 🇬🇧 Summary
+After the speech a girl wants a selfie: "I loved what you said, funny and beautiful!" Aunt: "You're a real Brouwn. An orator!" Wonny: "The young Surinamese liked your story. I hope they start that revolution!" Jaantje joins. Mum: "I thought you were Surinamese." Jaantje: "Not that I know of, ma'am." Aunt: "You're pretty." Wonny: "You were first in line when God was inspired." Mum: **"Are you the one who's going to give me grandchildren?"** "Mum!" Jaantje laughs: "You'll need patience. But you have a lovely son." Mum: "I love that he's become himself. He could be a bit pushy, but he's let go. **Mi tranga boy naga wan saf'ati! My gentle radical!**" The selfie girl shows her Instagram: "Just listened to this white boy! #onfire **#blakabakra**." Everyone laughs.
+
+Clyde and Yvette head to the **mass rallies**, the final big campaign events; Jaantje (for research) and Johannes join. Mum prefers drinks with Wonny and aunt: "Listen to Bouta? Rather you than me." In the car Jaantje takes his hand.
+
+At the Ocer field: chaos, cars, mopeds, music, thousands in NDP purple, "NDP WORKS!" flags, food stalls, a huge stadium: "a fairground in hell". Jaantje leads him through the crowd; people stare at her blondness. The announcer cries "Desiré Delano Bouterse!" and the crowd explodes **"as if the Lord Jesus himself had descended"**. Bouterse is "a frail little man" with glasses. "BOUTA! FIVE MORE YEARS!" A man beside Johannes weeps. Bouterse announces his vice-president: Ashwin Adhin, a Hindustani. Jaantje: "Big news! He's grabbing Hindustani voters too. So sly, so clever!"
+
+Then Jaantje says she's taking the night bus to Nickerie for interviews. But: "I have a brilliant plan. We've seen your motherland. **Let's meet in a week in mine. In Budapest.**" His stomach "feels like a rollercoaster". "Seven days is long, but we have time, don't we?" Johannes: **"As far as I'm concerned, all the time in the world."**
+
+### 🔗 Verband met het hele boek
+- **"Zachtmoedige radicaal"**: de vraag van oom Rudy (Dag 2): "Kun je niet allebei zijn?" Moeder geeft het antwoord: ja, Johannes is allebei.
+- **"#blakabakra"**: het woord dat eerst een buitenstaander betekende, is nu grappig en liefdevol.
+- **De massameeting**: op Dag 1 nodigde de omroepster in de campagnewagen hiervoor uit. De "godenzoon" (Leo, Dag 2).
+- **Bouterse** = de man die oom Jimmy liet opsluiten; toch vereren duizenden hem. Jaantjes onderzoek legt uit waarom.
+- **Boedapest**: na Johannes' moederland gaan ze naar het moederland van Jaantje: ze zijn allebei "dubbelbloed".
+- **"Alle tijd van de wereld"**: Surinaamse tijd (*Dagu Swen*).
+
+### 👥 Personages
+- **Moeder**: trots, grappig, een beetje gênant ("kleinkinderen!"), maar ziet haar zoon echt.
+- **Jaantje**: zelfverzekerd, charmant, slim, romantisch.
+- **Wonny, tante**: trots.
+- **Bouterse**: een "broos mannetje", maar voor zijn fans een god.
+
+### 💬 Mening (PEAL)
+- **P:** Ik vind de massameeting indrukwekkend en een beetje eng.
+- **E:** *"Het publiek joelt en krijst alsof de Heere Jezus zelf is neergedaald op Surinaamse bodem."*
+- **A:** Bouterse was verantwoordelijk voor de Decembermoorden, maar duizenden mensen vereren hem. De schrijver beschrijft het als "kermis in de hel": feest en gevaar tegelijk. Tegelijk gaat het persoonlijke verhaal door: het liefdesplan voor Boedapest. Het contrast is groot: politieke chaos en persoonlijke rust.
+- **L:** Thema **sociale organisatie** (politiek, populisme). Het doet me denken aan andere populistische leiders, zoals Trump, die ook in het boek genoemd wordt: mensen geloven een sterke leider, ook als de feiten anders zijn.
+
+---
+
+## 48. Naar huis (p. 219–223)
+*Dag 8 · afscheid en terugvlucht*
+
+### 📖 Samenvatting
+Johannes wacht met zijn koffers op Clyde. "Op mijn zevende dag heb ik niets meer gedaan": hij lag aan het zwembad en at gadogado op Blauwgrond met moeder en Wonny. Yvette komt afscheid nemen met een echte omhelzing: "Het was een feest je hier te hebben!" Johannes: "Zonder jouw uitnodiging had het nog tien jaar geduurd." Yvette: "Dat denk ik niet. **De kosmos heeft samengespannen om je hier te laten komen.**"
+
+Bij tante en Jimmy thuis neemt iedereen afscheid. Het is verkiezingsdag: Clyde laat zijn pink zien, met inkt (zo kun je niet twee keer stemmen). Moeder doet grappig een "bonoe-vrouw" na (een Surinaamse genezeres die veel geld vraagt). Jimmy geeft Johannes nu wel een omhelzing: "De volgende keer moet je komen met oud en nieuw." Wonny: "Blijf niet te lang weg." Tante leert hem nog één zin: **"Kon hesi baka"** (kom snel terug). "Doe het eens na." Johannes probeert het, verlegen, nog een keer: "Kon 'esie báka!" Hij schudt zijn hoofd, **"maar niet meer uit schaamte"**. Iedereen klapt.
+
+In de auto slaapt moeder ("rust"). Op het vliegveld zegt Clyde: "Dag mevrouw Brouwn, het was een eer." Moeder: "Ik ben visionair: je wordt echt president van Suriname." Clyde en Johannes geven elkaar een echte omhelzing (geen handdruk meer): "Broeder! Dat Suriname je niet mag loslaten. Zorg goed voor je lieve ma."
+
+Ze lopen naar het vliegtuig (KLM). Johannes: "We gaan naar huis. Thuis, toch? Of is het geen thuis?" Moeder: **"Jawel! Natuurlijk is het thuis."** Bij de trap kijkt ze naar de lucht: **"Ik zou toch echt zweren dat het een andere zon is."** In het vliegtuig vraagt een Nederlandse stewardess: "Zo, lekker met oma op stap?" Johannes zegt trots: **"Nee mevrouw, dit is mijn moeder!"** Moeder: "Deze jongen is toch niet echt een Surinamer." Ze onderhandelt nog over kleinkinderen ("over twee, drie jaar?" "Zes of zeven." "Of vier."). Johannes maakt haar stoelriem vast.
+
+Het vliegtuig rijdt over de startbaan. Johannes hoopt dat hij dit gevoel thuis kan vasthouden, en dat hij ook thuis **"dagu swen"** kan doen. Met zijn ogen dicht ziet hij zijn moeder als meisje van negentien, die voor het eerst vliegt, naar Veenendaal, om Andy Warhol te worden, na het oefenen voor de koelkast. En hij ziet zijn opa in zijn beige pak en bolhoed, die naar Nederland vliegt: "hoe zou dat eruitzien, een land vol witte mensen?" **"Zo stijgen we op: de zwarte man, mijn grootvader, het meisje van negentien, van zestig en ik… haar man pikin."**
+
+Laatste woorden: **"Mijn naam is Johannes. Rond. Zacht. Gevaarloos. Ik ben geboren in Dordrecht. Getogen in Almere. Woonachtig in Amsterdam. Per navelstreng begraven onder de paramariboom."** Moeder pakt zijn hand. Dat hij uit haar buik komt, "lijkt opeens een wonderlijk verzinsel en tegelijkertijd vanzelfsprekender dan ooit".
+
+### 🇬🇧 Summary
+Johannes waits for Clyde with his suitcases. "On my seventh day I did nothing": the pool, gado-gado at Blauwgrond with mum and Wonny. Yvette gives a real hug: "It was a party having you!" Johannes: "Without your invitation it would've taken ten more years." Yvette: "I don't think so. **The cosmos conspired to bring you here.**"
+
+At aunt and Jimmy's, goodbyes. It's election day; Clyde shows his ink-stained pinky (so nobody votes twice). Mum mimics a "bonoe woman" (a healer who charges a lot). Jimmy now accepts a hug: "Next time come for New Year's." Wonny: "Don't stay away too long." Aunt teaches one last phrase: **"Kon hesi baka"** (come back soon). He tries, shyly, then again: "Kon 'esie báka!" He shakes his head, **"but no longer out of shame"**. Everyone applauds.
+
+Mum "rests" in the car. At the airport Clyde: "Goodbye Mrs Brouwn, an honour." Mum: "I'm a visionary: you'll really be president of Suriname." Clyde and Johannes share a real hug (no handshake): "Brother! May Suriname never let you go. Look after your dear ma."
+
+Walking to the KLM plane: "We're going home. Home, right? Or isn't it home?" Mum: **"Of course it's home."** At the stairs she looks up: **"I'd swear it's a different sun."** A Dutch flight attendant asks: "Out with grandma?" Johannes, proudly: **"No ma'am, this is my mother!"** Mum: "This boy isn't really Surinamese." She bargains over grandchildren ("in two, three years?" "Six or seven." "Or four.") He buckles her seatbelt.
+
+On the runway he hopes to hold on to this feeling at home and do **"dagu swen"** there too. Eyes closed, he sees his mother at nineteen, flying for the first time, to Veenendaal, to become Andy Warhol, after training in front of the fridge. And grandpa in his beige suit and bowler hat flying to Holland: "what would a country full of white people look like?" **"So we take off: the black man, my grandfather, the girl of nineteen, of sixty, and I… her man pikin."**
+
+Final words: **"My name is Johannes. Round. Soft. Harmless. Born in Dordrecht. Raised in Almere. Living in Amsterdam. Buried by umbilical cord under the paramariboom."** Mum takes his hand. That he came from her belly "suddenly seems a wondrous fiction and at the same time more natural than ever".
+
+### 🔗 Verband met het hele boek
+- **Cirkel**: "Mijn naam is Johannes. Rond. Zacht. Gevaarloos." is een echo van de proloog. Maar nu is de naam geen schild meer: hij voegt toe "per navelstreng begraven onder de paramariboom". Zijn identiteit is compleet: Nederlands én Surinaams.
+- **"Kon hesi baka" zonder schaamte**: vroeger schaamde hij zich dat hij de taal niet sprak (*Dagu Swen*).
+- **"Een andere zon"**: dezelfde woorden als bij moeders aankomst.
+- **"Dit is mijn moeder!"**: trots, terwijl hij vroeger zei "Ik heb een Surinaamse moeder."
+- **De koelkast** (*Ik wil niet naar Su*), **opa's reis** ("Lente in de Winter"), **dagu swen**, **navelstreng**, **paramariboom**: alle motieven komen terug.
+- **Clyde**: van een verticale handdruk naar een echte omhelzing.
+- **"Thuis"**: Nederland is ook thuis. Hij heeft nu twee thuizen.
+
+### 👥 Personages
+- **Johannes**: rustig, trots, compleet; "haar man pikin".
+- **Moeder**: vrolijk, gelukkig, nog steeds bang in het vliegtuig (vingers in haar oren).
+- **Tante, Jimmy, Wonny, Clyde, Yvette**: warm afscheid; Johannes hoort erbij.
+- **Opa** (in gedachten): de derde generatie die "opstijgt".
+
+### 💬 Mening (PEAL)
+- **P:** Ik vind het einde heel sterk, omdat het teruggaat naar het begin, maar alles nu anders voelt.
+- **E:** *"Mijn naam is Johannes. Rond. Zacht. Gevaarloos. (…) Per navelstreng begraven onder de paramariboom."*
+- **A:** In de proloog was zijn naam een schild om alleen Nederlands te lijken. Nu noemt hij Dordrecht, Almere, Amsterdam én de paramariboom: hij is dubbel. De drie generaties (opa, moeder, Johannes) "stijgen samen op": de geschiedenis van migratie is nu zijn verhaal. Ook trots zeggen "dit is mijn moeder!" laat zien hoe hij veranderd is.
+- **L:** Thema **identiteiten** en **ervaringen**. De boodschap is voor mij: je hoeft niet te kiezen tussen twee culturen, je kunt meer dan één thuis hebben. Dat geldt voor veel mensen in de wereld van nu.
+
+---
+
+# 🎯 TOT SLOT: je laatste check (lees dit vlak voor de IO)
+
+1. **Lees je fragment 2 keer.** Zoek: wie, waar, wanneer (dag/flashback)? Gebruik de tabel "Waar ben ik?".
+2. **Schrijf 10 korte bullets**: 3 samenvatting, 2 verband, 4 PEAL, 1 slot.
+3. **Kies 1 citaat uit het fragment** en 1 algemeen citaat (A4).
+4. **Gebruik altijd de ontwikkeling van Johannes**: *van "alleen Hollands" → "dubbelbloed"*.
+5. **Spreek rustig.** Als je iets niet weet: *"Dat is een goede vraag. Ik denk dat…"*
+6. **Deel 3**: bereid voor *Sociale organisatie, Deel de planeet, De vindingrijke mens* (zie `00-overzicht.md`, §8).
+
+**Succes morgen om 14:30! Je kunt dit. 💪**
