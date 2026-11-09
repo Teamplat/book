@@ -1087,5 +1087,539 @@ On the roof terrace he looks for the Torarica jetty where his mother, at sixteen
 - **L:** Thema **deel de planeet / identiteiten**. Dit heet colorisme; het bestaat nog steeds, bijvoorbeeld bleekcrèmes in Azië en Afrika.
 
 ---
+## 25. Jan & Virginia (p. 107–111)
+*Flashback · het leven van moeder en de ontmoeting met vader*
 
-> ⏳ *Hoofdstuk 25 en verder komen eraan…*
+### 📖 Samenvatting
+Moeders eerste woonplaats in Nederland was Veenendaal. In 1973, twee jaar vóór de onafhankelijkheid van Suriname, kwam ze als laatste van de elf kinderen naar Nederland. Ze kwam niet omdat ze wilde, maar **"omdat ze moest"**. Niemand vroeg haar iets. Op school deed ze geen moeite: ze was van het gymnasium gestuurd en gezakt voor de havo. Ze wilde kunstenares worden: "Vraag Andy Warhol of hij zijn havodiploma heeft gehaald!" Maar haar ouders wilden dat niet. Oom Jimmy (de filosoof) zei: met kunst verdien je niets. Dus werd Virginia (19) op het vliegtuig gezet. Ze ging wonen bij haar oudere zus Gladys in Veenendaal. Gladys werd ook haar lerares Engels op school, een school waar nog nooit een zwarte vrouw was geweest.
+
+Toch lukte het. Ze haalde haar havodiploma, en de klasgenoten ontdekten dat haar huid "niet afgaf" en dat ze beter Nederlands sprak dan zij. Ze wilde naar de Gerrit Rietveld Academie (kunst), maar de familie verbood het weer. Ze werd verpleegkundige voor mensen met een verstandelijke beperking in Den Haag. Daar was ze gelukkig: ze tekende en schilderde met de patiënten.
+
+Op haar 22e ging ze een kroeg in Den Haag in en ging bij een jongen zitten: "Hallo, ik ben Esmeralda." Hij keek haar aan: "Jij heet helemaal geen Esmeralda!" Ze lachte. Dat was Jan, met lang zwart haar en een neus als een kraai. Vader zegt altijd: "Toen ben ik erin getrapt."
+
+Daarna kwamen hun gelukkigste jaren: feesten, een oude Citroën, briefjes van honderd gulden in boeken, spontaan naar Parijs. Ze gingen naar India en sloten zich aan bij de Bhagwan-beweging (een soort sekte). Terug in Nederland woonden ze in een commune in Egmond aan Zee. Daar ging het mis: mensen schreeuwden de hele dag "om alles eruit te krijgen". De relatie ging kapot, ze gingen uit elkaar en kwamen weer bij elkaar. Moeder raakte steeds meer in zichzelf gekeerd.
+
+In 1984 zei moeder tegen haar therapeut, dokter Samba: "Ik had zo graag naar de kunstacademie willen gaan." Maar ze wilde eigenlijk iets anders: een kind. Vader twijfelde: was dat verstandig? Dokter Samba zei enthousiast: "Een kind zal u rust en stabiliteit brengen!" Johannes zou boos moeten zijn op dokter Samba, maar "zonder zijn enthousiasme was ik er nooit geweest".
+
+### 🇬🇧 Summary
+Mum's first Dutch hometown was Veenendaal. In 1973, two years before Surinamese independence, she came as the last of eleven, not because she wanted to but **"because she had to"**. Nobody asked her. She didn't try at school (expelled from gymnasium, failed havo); she wanted to be an artist: "Ask Andy Warhol if he passed his havo!" Her parents refused; uncle Jimmy said art earns nothing. So Virginia (19) was put on a plane to live with her older sister Gladys in Veenendaal, who also became her English teacher at a school that had never seen a black woman.
+
+She succeeded: she passed havo, and classmates discovered her skin "didn't rub off" and she spoke better Dutch than they did. She wanted the Rietveld Art Academy, but the family forbade it again. She became a nurse for people with intellectual disabilities in The Hague, where she was happy, drawing and painting with patients.
+
+At 22 she sat down next to a guy in a Hague bar: "Hi, I'm Esmeralda." He: "You're not called Esmeralda at all!" She laughed. That was Jan. Dad always says: "That's when I fell for it."
+
+Then their happiest years: parties, an old Citroën, hundred-guilder notes hidden in books, spontaneous trips to Paris. They went to India and joined the Bhagwan movement (a cult). Back home they lived in a commune in Egmond aan Zee, where it went wrong: people screamed all day "to get everything out". The relationship broke, they split and reunited; mum withdrew more and more.
+
+In 1984 she told her therapist, Dr Samba, she'd wanted art school, but what she really wanted was a child. Dad doubted it was wise. Dr Samba: "A child will bring you peace and stability!" Johannes should be angry with him, but "without his enthusiasm I'd never have existed".
+
+### 🔗 Verband met het hele boek
+- Verklaart waarom moeder boos is op haar **zussen en Jimmy** ("Als ze konden, zouden ze nog steeds mijn studierichting bepalen", *Zusjes*).
+- **Andy Warhol**: haar droom komt terug bij het zingen met Mildred ("Nina Simone. Andy Warhol. Virginia Brouwn.") en op de pier.
+- **"Esmeralda"**: vader schrijft in 1985 een liefdesbrief aan "Esmeralda" (Dag 6).
+- **Dokter Samba en het kind** → postnatale depressie in *Wat een lelijke baby*.
+- **Veenendaal**: op Dag 6 zegt Johannes lachend: "Ze hebben je in een koelcel gestopt. Veenendaal."
+
+### 👥 Personages
+- **Virginia (jong)**: rebels, creatief, onaangepast, vrijheidszoekend. Ze mocht nooit zelf kiezen.
+- **Jan (jong)**: grappig, doorziet haar meteen ("Jij heet helemaal geen Esmeralda").
+- **De familie Brouwn en Jimmy**: beslissen over moeders leven.
+- **Dokter Samba**: te optimistisch.
+
+### 💬 Mening (PEAL)
+- **P:** Ik heb medelijden met de jonge Virginia, omdat anderen steeds over haar leven beslisten.
+- **E:** *"Ze kwam niet naar Holland omdat ze zo graag wilde. (…) Ze kwam naar Holland omdat ze moest."*
+- **A:** Haar dromen (kunstenares worden) werden twee keer afgepakt. Dat verklaart misschien deels haar latere problemen en haar boosheid op haar familie. Johannes probeert zijn moeder nu te begrijpen, door haar verhaal te vertellen.
+- **L:** Thema **ervaringen** (migratie) en **sociale organisatie** (familie). Ik vind het belangrijk dat jongeren zelf mogen kiezen wat ze studeren.
+
+---
+
+## 26. Wonen of verblijven (p. 112–118)
+*Dag 3 · moeder komt aan*
+
+### 📖 Samenvatting
+Nu staat Johannes zelf tussen de mannen met bordjes op het vliegveld. Moeder komt maar niet. Hij stelt zich voor dat ze nog met de piloot praat, of dat ze een leguaan bij zich heeft. Dan komt ze eindelijk naar buiten, "als een grande dame", met een grijze vilten hoed met een paars lint: **"Dag volk, daar ben ik dan. De koningin is gearriveerd!"** Ze omhelzen elkaar: de eerste omhelzing "op deze grond".
+
+Ze was laat, omdat ze ook geen toeristenkaart had en terug moest naar het begin van de rij. Ze zegt droog: "Zeker omdat ik zwart ben." Na een paar seconden lachen ze allebei. Ze vertelt wie ze allemaal in het vliegtuig heeft gesproken. Buiten zegt ze: **"Zo! Nu voel ik me thuis. Ik ruik het weer. Het is een andere zon."** Johannes zegt: "Het is dezelfde zon" en heeft meteen spijt. Zij: "Hij schijnt anders, feller. Ik voel hem door mijn huid prikken."
+
+In het busje vraagt ze de chauffeur of hij familie is van de Gongrijps. Ze wijst naar alles: "Kijk nou, zo eenvoudig, die huisjes. En wij willen in Holland zoveel." Dan valt ze in slaap. Als ze wakker schrikt, vliegt haar hoed weg: "Waar is mijn hoed?" "Waar ben ik?" Johannes: "In de paramariboom." Bij Hotel Torarica drukt ze haar gezicht en hand tegen het raam, "alsof ze er zo doorheen kan bewegen om Paramaribo aan te raken". Ze lijkt een kind dat alles voor het eerst ziet, en tegelijk opeens veel ouder.
+
+Bij Eco Resort zegt ze: "Prima. Geen straf om hier te wonen." Johannes: "Wonen?" Zij: "Ik hou niet van het woord 'verblijven', het heeft iets afstandelijks." Ze slaapt niet bij Johannes, maar bij haar nicht Wonny. Zo vallen ze niet terug in "oude rolpatronen" van moeder en kind. Johannes vertelt hoe ingewikkeld zijn grote Surinaamse familie is: op zijn veertiende wilde hij dansen met een mooi meisje op een feest, maar moeder zei: "Leuk, dat is je nicht!" Moeder stapt weer in het busje en praat door tegen de chauffeur over de Gongrijps.
+
+### 🇬🇧 Summary
+Now Johannes stands among the sign-holders at the airport. Mum takes ages; he imagines her chatting to the pilot or smuggling an iguana. Finally she sweeps out "like a grande dame" in a grey felt hat with a purple ribbon: **"Hello people, here I am. The queen has arrived!"** Their first hug "on this soil".
+
+She also lacked a tourist card and had to go back to the start of the queue: "Surely because I'm black." After a few seconds they both burst out laughing. She lists everyone she talked to on the plane. Outside: **"There! Now I feel at home. I smell it again. It's a different sun."** He says "It's the same sun" and regrets it. She: "It shines differently, brighter. I feel it prickling through my skin."
+
+In the van she asks the driver if he's related to the Gongrijps, points at everything ("so simple, those houses, and in Holland we want so much"), then falls asleep. Waking with a start, her hat flies off: "Where's my hat? Where am I?" Johannes: "In the paramariboom." At Hotel Torarica she presses face and hand to the window, "as if she could move right through it and touch Paramaribo", like a child seeing everything for the first time, yet suddenly much older.
+
+At Eco Resort: "Not bad. No punishment to live here." "Live?" "I don't like 'stay', it sounds distant." She'll lodge with her cousin Wonny, not with Johannes, to avoid falling into old mother-child roles. He explains how confusing his big family is: at fourteen he wanted to dance with a pretty girl at a party, but mum said "Nice, that's your cousin!" She gets back in the van, still telling the driver about the Gongrijps.
+
+### 🔗 Verband met het hele boek
+- **Spiegel van Dag 0**: eerst kwam Johannes aan, nu wacht hij zelf.
+- **"Een andere zon"**: deze zin staat ook op de laatste bladzijde: "Ik zou toch echt zweren dat het een andere zon is."
+- **De hoed** komt steeds terug en gaat verloren bij het graf van opa (Dag 6).
+- **Torarica en de steiger**: herinneringen van moeder (*Joe moes opo yu kleur*, *Het optreden*).
+- **Rolpatronen** tussen ouders en kinderen, en tussen zusjes: belangrijk thema op Dag 4 en 6.
+
+### 👥 Personages
+- **Moeder (Virginia)**: theatraal, grappig, kinderlijk enthousiast, ook snel moe ("het kaarsje is opgebrand"). In Suriname "thuis".
+- **Johannes**: geduldig, zorgzaam, maar zegt soms iets verkeerds ("dezelfde zon").
+
+### 💬 Mening (PEAL)
+- **P:** Ik vind de aankomst van moeder een van de grappigste en ontroerendste stukken.
+- **E:** *"Ze drukt haar kleine neus tegen het raam (…) alsof ze er zo doorheen kan bewegen om Paramaribo aan te raken."*
+- **A:** Na veertig jaar komt ze terug in haar land. Ze voelt zich meteen thuis ("een andere zon"). Johannes ziet haar als een kind en een oude vrouw tegelijk. Hij laat haar dit moment: hij loopt "een beetje achter haar".
+- **L:** Thema **ervaringen**. Terugkeren naar je geboorteland na lange tijd moet heel emotioneel zijn; ik kan me voorstellen dat de zon dan echt anders voelt.
+
+---
+
+## 27. Wat een lelijke baby (p. 119–121)
+*Flashback · de geboorte van Johannes*
+
+### 📖 Samenvatting
+Johannes wordt geboren op 20 september 1985 in Dordrecht. De verpleegster knipt de navelstreng door. Moeder vraagt haar iets (later blijkt: ze wil het stukje navelstreng bewaren). Moeder pakt de baby en zegt vrolijk: **"O, wat een lelijke baby!"** De verpleegster schrikt. Moeder legt uit: "In Suriname zeggen we dat altijd. Zo houden we de boze geesten voor de gek." Vader zegt: "Gelukkig is hij net zo knap als zijn vader."
+
+Ze wilden hem Daniël noemen (naar *The Karate Kid*). Maar als de verpleegster vraagt hoe hij heet, zeggen ze tegelijk: "Johannes." Dat zien ze als een teken van het lot ("de kosmos"). Hij heet Johannes Daniël Fretz.
+
+Kort daarna krijgt moeder een **postnatale depressie**. Dokter Samba had dus ongelijk. Vader wordt "vader én moeder". Hij tilt Johannes op als hij huilt, geeft hem de fles en praat met hem als met een volwassene, nooit met een kinderstem. Op foto's zit vader met de baby; moeder staat ernaast, maar "is eigenlijk ergens anders". Johannes begrijpt haar nu: ze zat in een koude flat in Dordrecht, ver van de warmte van Paramaribo. Ze zou nooit meer Andy Warhol worden. **"Ze wil zo graag. Maar ze kan er niet bij."**
+
+Johannes denkt soms: was ze maar toen écht ziek geworden, toen hij een baby was, dan had hij er niets van gemerkt. Dan zijn eerste woordje: moeder roept opgewonden naar vader: "Hij zegt 'mama'!" Vader komt kijken. En Johannes zegt duidelijk: **"Papa!"**
+
+### 🇬🇧 Summary
+Johannes is born on 20 September 1985 in Dordrecht. The nurse cuts the cord; mum asks her something (later we learn: to keep the piece of cord). Holding him she says cheerfully: **"Oh, what an ugly baby!"** The nurse is shocked; mum explains: "In Suriname we always say that, to fool the evil spirits." Dad: "Luckily he's as handsome as his father."
+
+They'd planned "Daniel" (after *The Karate Kid*), but when asked, both say "Johannes" at once, a sign from fate ("the cosmos"). He becomes Johannes Daniël Fretz.
+
+Soon mum gets **postnatal depression**; Dr Samba was wrong. Dad becomes "father and mother": he picks him up, feeds him, talks to him like an adult, never baby talk. In photos dad holds the baby while mum stands beside them, "really somewhere else". Johannes understands her now: a cold flat in Dordrecht, far from Paramaribo's warmth, never to become Andy Warhol. **"She wants to so badly. But she can't reach it."**
+
+Sometimes he thinks: if only she'd become truly ill when he was a baby, he'd never have noticed. Then his first word: mum excitedly calls dad, "He's saying 'mama'!" Dad comes to look, and Johannes clearly says: **"Papa!"**
+
+### 🔗 Verband met het hele boek
+- **De navelstreng**: moeder bewaarde het stukje 29 jaar en begraaft het op Dag 4 (*Bonnie*).
+- **De naam Johannes**: vader stelde de naam voor in een brief (Dag 6, *Mi man pikin*).
+- **Vader als held**: zie *Een nieuw huis voor mama*.
+- **Moeders ziekte** → *Weglopen* en *Zo godvergeten moe*.
+- **Humor + verdriet**: begin grappig, eind tragikomisch ("Papa!").
+
+### 👥 Personages
+- **Moeder**: wil een goede moeder zijn, maar kan het niet door haar depressie.
+- **Vader**: zorgzaam, sterk, neemt de rol van moeder over.
+- **Baby Johannes**: al serieus ("wenkbrauwen als landingsbanen").
+
+### 💬 Mening (PEAL)
+- **P:** Dit hoofdstuk laat zien dat Johannes zijn moeder probeert te begrijpen in plaats van te beschuldigen.
+- **E:** *"Ze wil zo graag. Maar ze kan er niet bij."*
+- **A:** Johannes beschrijft haar eenzaamheid in het koude Nederland met veel empathie. Het eerste woord "Papa" is grappig, maar ook pijnlijk: hij had vooral een band met zijn vader.
+- **L:** Thema **ervaringen / sociale organisatie**. Postnatale depressie was (en is) vaak een taboe. Ik vind het goed dat de schrijver er open over is.
+
+---
+
+## 28. Op bezoek bij Wonny (p. 122–128)
+*Dag 4 · briefje, taxi en het huis van Wonny*
+
+### 📖 Samenvatting
+Bij het ontbijt vertelt Yvette: de Wereldomroep stopt met sponsoren, daarom zijn Pim en Lydia hier. Yvette is jaloers: zij mogen alles zeggen als Nederlanders, maar zij moet oppassen: **"ik ben die blaka bakra (…) Ik moet niet komen doen alsof ik de waarheid in pacht heb, alsof ik beter ben omdat ik in Holland woon."** Johannes luistert niet goed; hij zoekt Jaantje. Is ze weg?
+
+Op zijn kamer: sms'jes. Moeder: ze stond om zeven uur op! Clyde: morgenavond uit. Vader: "Nu zit jij met haar opgescheept." Dan brengt een kamermeisje een briefje van Jaantje: "Ga je vanavond roti met me eten bij Krisje?"
+
+In de taxi praat de chauffeur (hij werkt 's nachts ook als portier bij een casino). "Het leven is duur. Door die Chinezen! Ze concurreren de echte Surinamers weg. Bouta gaat ze eruit schoppen." "Alleen de nieuwe Chinezen hoor. De oude Chinezen zijn gewoon Surinamers." Johannes denkt aan zijn oma, die half-Chinees was: "Zij had van deze taxichauffeur mogen blijven. Een hele geruststelling."
+
+Wonny's huis staat ook op stelten. Moeder verschijnt op het balkon, in gele broek en paarse blouse: "Hallo Soestdijk! Ik heb uitstekend geslapen in het land van deze primitievelingen." Wonny lijkt precies op oma Erna. Binnen eet moeder rijst als ontbijt. Op tv: een reclame voor kip. Wonny is fel tegen Bouterse: "Surinamers zijn dom. Ze kijken naar vandaag, maar morgen gaan ze huilen." Ze bewondert Hillary Clinton.
+
+Moeder laat haar kamer zien: precies zoals thuis, met een yantra, meditatie-cd's en een Donald Duck. Ze zegt "we" over Suriname: "We zijn hier erg veramerikaanst." Johannes: "Je woont gewoon in Nederland." Moeder: **"Ja, maar ik kom hier vandaan, noh. Ik kom hier vandaan."** Ze vertelt dat ze vroeg opstaat hier. Johannes zegt aarzelend: "Ik heb precies hetzelfde." Ze kijkt hem gloeiend van trots aan: **"Nee schat, dat komt niet door de jetlag."**
+
+### 🇬🇧 Summary
+At breakfast Yvette says the Wereldomroep is ending its sponsorship, hence Pim and Lydia. She envies them: as Dutch people they can say anything, but she must be careful: **"I'm that blaka bakra (…) I can't act like I own the truth, like I'm better because I live in Holland."** Johannes isn't listening; he's looking for Jaantje.
+
+Texts: mum got up at seven! Clyde: night out tomorrow. Dad: "Now you're stuck with her." A chambermaid brings a note from Jaantje: "Roti with me tonight at Krisje's?"
+
+The taxi driver (also a night-time casino doorman) complains: "Life's expensive because of the Chinese! They push out real Surinamese. Bouta will kick them out. Only the new Chinese, the old ones are just Surinamese." Johannes thinks of his half-Chinese grandma: "she'd have been allowed to stay. How reassuring."
+
+Wonny's house is on stilts too. Mum appears on the balcony in yellow trousers and purple blouse: "Hello Soestdijk! I slept excellently in the land of these primitives." Wonny looks exactly like grandma Erna. Mum eats rice for breakfast; a chicken ad plays on TV. Wonny is fiercely anti-Bouterse: "Surinamese are stupid. They look at today; tomorrow they'll cry." She admires Hillary Clinton.
+
+Mum's room is set up exactly like at home: yantra, meditation CDs, a Donald Duck. She says "we" about Suriname. Johannes: "You live in the Netherlands." Mum: **"Yes, but I come from here. I come from here."** She's been getting up early; he says hesitantly: "Same for me." She looks at him glowing with pride: **"No darling, that's not the jet lag."**
+
+### 🔗 Verband met het hele boek
+- **"Blaka bakra"**: Yvette voelt hetzelfde als Johannes: ze hoort er niet helemaal bij.
+- **Jaantjes briefje** → de eerste zoen (*Mensen met ander bloed*).
+- **De taxichauffeur**: net als "Vol is vol" in Nederland, ook hier zondebokken. Johannes heeft zelf Chinees bloed (oma Tjen-A-Tak).
+- **Vroeg opstaan** (*Ontwaken*): hun lichamen voelen zich thuis.
+- **"Ik kom hier vandaan"**: moeder is trots op haar afkomst, Johannes begint dat ook te voelen.
+
+### 👥 Personages
+- **Yvette**: eerlijk over haar positie tussen twee werelden.
+- **De taxichauffeur**: Bouterse-fan, bevooroordeeld.
+- **Wonny**: stoer, fel, lijkt op oma.
+- **Moeder**: blij, thuis, trots.
+
+### 💬 Mening (PEAL)
+- **P:** Het mooiste moment vind ik het einde, als moeder trots is op haar zoon.
+- **E:** *"Ze kijkt me gloeiend van trots aan. 'Nee schat, dat komt niet door de jetlag.'"*
+- **A:** Vroeg opstaan is een klein ding, maar het betekent veel: moeder en zoon voelen zich allebei thuis in Suriname. Het is de eerste keer dat ze iets echt delen. Ook de zin "ik kom hier vandaan" is belangrijk: moeder twijfelt niet over haar identiteit, Johannes wel.
+- **L:** Thema **identiteiten**. Ik denk dat je lichaam soms eerder weet waar je thuis bent dan je hoofd.
+
+---
+
+## 29. Zusjes (p. 129–134)
+*Dag 4 · lunch met tante Enilda*
+
+### 📖 Samenvatting
+Wonny rijdt heel wild. Ze scheldt op andere bestuurders: "Zulke mensen hebben ook stemrecht!" Ze neemt een "boro passi" (een sluiproute). Moeder zit chagrijnig achterin. Ze ziet op tegen haar zus Enilda. Ze houdt van haar broers en zussen, maar "haat ze ook allemaal", want ze behandelen haar nog steeds als het kleine zusje: **"Als ze konden, zouden ze nog steeds mijn studierichting bepalen."** Johannes vraagt Wonny of ze met Enilda over politiek praat (Jimmy werkt indirect voor Bouterse). Wonny lacht: **"Elke korrel van dit land is politiek. Als ik met al mijn vrienden over politiek zou praten, hield ik geen vrienden meer over."**
+
+Bij De Gadri is tante te laat. Moeder is boos: "Ik hou niet van mensen die te laat komen." Johannes: "Je komt zelf altijd te laat." Moeder loopt naar het muurtje aan de rivier. Johannes gaat naast haar staan. Ze kijkt naar Commewijne aan de overkant, haar lievelingsdistrict: "Ik zou het graag willen aanraken." Ze wil er niet heen over de brug (ze vindt de brug eng), maar wel met een bootje: "We gaan morgen." Johannes ergert zich aan haar ongeduld. Vader zegt altijd: "Je ergert je het meest aan eigenschappen van je ouders die je in jezelf herkent."
+
+Dan zegt moeder iets moois: "Als ik in Almere op de dijk fiets, kijk ik over het water naar de overkant. Dan zie ik Huizen. Een Hollands stadje, met Hollandse melk, Hollandse kaas… En dan vraag ik me af: **waar is Commewijne toch gebleven?**"
+
+Tante Enilda komt, in een wit jurkje. De zusjes vallen elkaar gillend in de armen: "Simone Signoret en Audrey Hepburn!" Ze praten over oude buren en over dromen die de dood voorspellen. Maar bij de auto is de stemming opeens slecht. Moeder staat stil als een standbeeld: **"Ik ben het zat! (…) Ik ben hier gekomen om mijn zoon mijn land te laten zien. Niet om alle eettentjes af te lopen."** Ze wil naar Colakreek (een natuurgebied). Tante zegt: "Het spijt me, Gini, dat zal niet gaan." Johannes begrijpt: oude rolpatronen gelden ook tussen zusjes. "Kleine Gini krijgt haar zin niet."
+
+### 🇬🇧 Summary
+Wonny drives wildly, cursing other drivers ("people like that have the vote!") and taking a "boro passi" (shortcut). Mum sulks in the back; she dreads seeing Enilda. She loves her siblings but "hates them all", because they still treat her as the little sister: **"If they could, they'd still choose my studies."** Johannes asks Wonny if she discusses politics with Enilda (Jimmy indirectly works for Bouterse). Wonny laughs: **"Every grain of this country is politics. If I talked politics with all my friends, I'd have none left."**
+
+At De Gadri aunt is late; mum is cross ("I hate people who are late"). Johannes: "You're always late." Mum walks to the river wall; he joins her. She looks at Commewijne, her favourite district: "I'd love to touch it." Not over the scary bridge, but by boat: "We'll go tomorrow." He's annoyed by her impatience; dad says "you're most annoyed by your parents' traits you recognise in yourself."
+
+Then she says something beautiful: "When I cycle on the dyke in Almere I look across the water and see Huizen. A Dutch town, Dutch milk, Dutch cheese… and I wonder: **where has Commewijne gone?**"
+
+Aunt arrives in a white dress; the sisters embrace shrieking: "Simone Signoret and Audrey Hepburn!" They chat about old neighbours and dreams predicting deaths. But at the car the mood turns. Mum stands like a statue: **"I'm fed up! I came to show my son my country, not to visit every eatery."** She wants to go to Colakreek (a nature spot). Aunt: "Sorry, Gini, that won't work." Old roles apply between sisters too: "Little Gini doesn't get her way."
+
+### 🔗 Verband met het hele boek
+- **Jongste zusje**: in *Jan & Virginia* bepaalde de familie haar leven. Haar woede komt daarvandaan.
+- **Commewijne**: ze gaan er de volgende dag (Dag 5) met een bootje heen.
+- **De brug**: op Dag 6 zegt moeder dat ze haar eerste zoen kreeg op de brug, maar dat ze nu bang is.
+- **Heimwee**: zie ook *Het beste nieuws sinds jaren* (Almere als Truman Show).
+- **Moeders stemmingswisselingen**: hint naar haar psychische kwetsbaarheid.
+
+### 👥 Personages
+- **Wonny**: wild, grappig, fel over politiek, maar wijs over vriendschap.
+- **Moeder**: wisselt van stemming: verdrietig, verlangend, boos, blij. Wil serieus genomen worden.
+- **Tante Enilda**: lief, maar blijft "de oudste".
+- **Johannes**: ergert zich, maar begrijpt zijn moeder steeds beter.
+
+### 💬 Mening (PEAL)
+- **P:** Ik vind de zin over Huizen en Commewijne de mooiste beschrijving van heimwee in het boek.
+- **E:** *"Soms kijk ik ernaar en vraag ik me alleen maar af: waar is Commewijne toch gebleven?"*
+- **A:** Moeder woont al veertig jaar in Nederland, maar mist haar land nog elke dag. De herhaling van "Hollandse melk, Hollandse kaas" laat zien hoe saai en vreemd Nederland voor haar blijft. Ook laat het hoofdstuk zien dat familie liefde én irritatie is.
+- **L:** Thema **ervaringen** (migratie, heimwee) en **sociale organisatie** (familie, rolpatronen). Ik herken dat je in je familie soms altijd "de jongste" blijft.
+
+---
+
+## 30. Een nieuw huis voor mama (p. 135–138)
+*Flashback · Johannes is 5*
+
+### 📖 Samenvatting
+Johannes is vijf. Met zijn ouders loopt hij door een arme wijk in Dordrecht. Vader zegt: "We gaan een nieuw huis zoeken voor mama. Mama gaat ergens anders wonen. Dat is beter voor mama, beter voor papa en daarom ook beter voor jou." Johannes begrijpt het niet. Hij denkt vooral praktisch: dan heb je twee televisies en twee Nintendo's nodig! Moeder zegt niets; ze staart voor zich uit.
+
+Een man met "maar zes haren" laat de flat zien. Hij noemt alles "modern en comfortabel". Johannes rent door de kamers. Het balkon is klein en lelijk, met een rooster "als een gevangenisluik". De man noemt het "een pareltje". Beneden barbecuet een buurvrouw. Johannes roept naar haar: "Mijn mama komt hier wonen. Dat is beter voor haar, beter voor papa en daarom ook beter voor mij." Moeder kijkt alsof er overal poep ligt, maar ze zegt: "Net wat u zegt meneer: een pareltje." Ze vraagt Johannes: "Ga je hier wel willen komen in het weekend?" Hij zegt: "Ik denk het wel."
+
+Vanaf dan heeft hij twee huizen. Door de week woont hij bij vader, zijn held. Vader draagt hem op zijn schouders, wekt hem met "Huup huup, Barbatruc", smeert tijgerbalsem op zijn rug als hij 's nachts wakker schrikt en neemt hem mee naar de spoorbomen om naar treinen te zwaaien. In het weekend is hij bij moeder: "een huis waarin ik me maar geen toegang wist te verschaffen tot de ogen, de oren en het hart van mijn moeder". Na twee jaar zegt vader: "We gaan weer bij mama wonen. Dat is beter voor ons allemaal."
+
+### 🇬🇧 Summary
+Johannes is five. Walking through a poor Dordrecht area, dad says: "We're looking for a new house for mummy. Mummy will live somewhere else. That's better for mummy, better for daddy and so better for you." Johannes doesn't understand; he thinks practically: you'd need two TVs and two Nintendos! Mum stares silently.
+
+A man with "only six hairs" shows the flat, calling everything "modern and comfortable". The balcony is tiny and ugly, with a grille "like a prison hatch", "a little gem" says the man. Below, a neighbour is barbecuing; Johannes calls down: "My mummy's coming to live here. It's better for her, better for daddy and so better for me." Mum looks as if there's poo everywhere, but says: "Just as you say, sir: a gem." She asks: "Will you want to come here at weekends?" "I think so."
+
+From then on he has two homes. Weekdays with dad, his hero, who carries him on his shoulders, wakes him with "Huup huup, Barbatruc", rubs tiger balm on his back when he wakes at night, and takes him to the level crossing to wave at trains. Weekends with mum, "a house where I couldn't reach my mother's eyes, ears and heart". After two years dad says: "We're moving back in with mummy. Better for all of us."
+
+### 🔗 Verband met het hele boek
+- **Huizen**: contrast tussen het warme huis op stelten van moeders jeugd (*Bonnie*) en de grauwe flat in Dordrecht.
+- **Vader als held**: verklaart waarom Johannes altijd de kant van vader kiest.
+- **Moeder onbereikbaar**: verklaart zijn "harnas". In Suriname lukt het wel om haar hart te bereiken.
+- **"Beter voor iedereen"**: komt terug in *Weglopen* en *Zo godvergeten moe* ("dat is beter voor ons allemaal").
+
+### 👥 Personages
+- **Johannes (5)**: naïef, praktisch, herhaalt wat volwassenen zeggen.
+- **Vader**: liefdevol, zorgzaam, zijn grote held.
+- **Moeder**: afwezig, depressief, maar probeert beleefd te zijn.
+- **De makelaar**: overdreven positief, een "schlemiel".
+
+### 💬 Mening (PEAL)
+- **P:** Het kinderperspectief maakt dit hoofdstuk grappig en verdrietig tegelijk.
+- **E:** *"Mijn mama komt hier wonen. Dat is beter voor haar, beter voor papa en daarom ook beter voor mij."*
+- **A:** Johannes herhaalt de zin van zijn vader, maar begrijpt niet wat het betekent. Wij als lezers begrijpen wel hoe triest het is. Het verschil tussen de warme vader en de onbereikbare moeder is groot.
+- **L:** Thema **sociale organisatie** (familie, scheiding). Ik denk dat veel kinderen van gescheiden ouders zich in "twee huizen" herkennen.
+
+---
+
+## 31. Weglopen (p. 139–143)
+*Flashback · Johannes is 7*
+
+### 📖 Samenvatting
+De familie woont weer samen, in moeders flat: "een nieuwe start", zegt vader. Vader verhuist makkelijk: hij is 54 keer verhuisd ("Ik ben een zigeuner"). Op school schept Johannes daar trots over op, maar niemand vindt het stoer. Vader sluit een lening af om het huis op te knappen. Johannes wil een nieuwe fiets met een stuur als de auto van Knight Rider. Maar al het geld gaat op aan verf en een bankstel. En: juist nu het huis lichter is, valt het nog meer op "dat het mijn moeder was die voor de donkerte zorgde".
+
+Dan, op een zondag, komt moeder niet thuis. Ze zou naar een vriendin gaan, maar ze is daar nooit aangekomen. Vader belt iedereen. Johannes voelt "een kwal in zijn maag": angst. Hij zegt: "Hoe moet dat toch zijn, als kind je ergens veilig te voelen? Ik weet het niet."
+
+'s Avonds gaat de bel. Twee politieagenten staan voor de deur met moeder tussen hen in. Ze draagt een joggingpak met een haarband. Haar ogen zijn wijd open maar leeg. De agent zegt: "We hebben haar zo aangetroffen op de begraafplaats." Vader stuurt Johannes naar zijn kamer. Johannes klampt zich vast aan moeders been: "Waar was je nou?" Ze zegt niets.
+
+Een agent aait Johannes over zijn hoofd. Johannes vraagt: "Jullie komen mama toch niet ruilen voor papa? Papa mag echt niet weg. Hij drinkt soms wat veel, dan wordt hij vreemd. Maar verder is het een hele goede papa. Met wie moet ik anders praten?" Hij geeft de agent een hand: "Dus we hebben een afspraak?"
+
+Op dat moment begrijpt Johannes, als kind van zeven: **ik moet mezelf redden.** Hij moet laten zien dat hij niet "gek" is, dat hij "gewoon Johannes" is. Als hij zich groot houdt en netjes praat, zullen mensen hem vertrouwen. **"Ik ben niet waar ik vandaan kom, ik ben niet waar ik vandaan kom, ik ben niet waar ik vandaan kom."**
+
+### 🇬🇧 Summary
+The family lives together again in mum's flat, "a fresh start" says dad, who has moved 54 times ("I'm a gypsy"); Johannes brags about it at school, but nobody is impressed. Dad takes out a loan to renovate; Johannes wants a Knight Rider bike, but the money goes on paint and a sofa. And now the flat is brighter, it shows even more "that my mother was the one bringing the darkness".
+
+One Sunday mum doesn't come home. She was going to a friend but never arrived. Dad phones everyone; Johannes feels "a jellyfish in his stomach": fear. "What must it be like as a child to feel safe somewhere? I don't know."
+
+In the evening the bell rings: two police officers with mum between them, in a tracksuit and headband, eyes wide open but empty. "We found her like this at the cemetery." Dad sends Johannes to his room; he clings to mum's leg: "Where were you?" She says nothing.
+
+An officer pats his head. Johannes asks: "You're not swapping mummy for daddy, are you? Daddy mustn't go. He drinks a bit much sometimes, then he gets strange. But otherwise he's a very good daddy. Who else would I talk to?" He shakes the officer's hand: "So we have a deal?"
+
+At that moment, aged seven, he understands: **I have to save myself.** He must show he isn't "crazy", that he's "just Johannes". If he acts grown-up and speaks well, people will trust him. **"I am not where I come from, I am not where I come from, I am not where I come from."**
+
+### 🔗 Verband met het hele boek
+- **Het belangrijkste flashback-hoofdstuk**: hier ontstaat Johannes' schild. Daarom duwde hij zijn moeder (en Suriname, waar zij vandaan komt) weg.
+- **"Ik ben niet waar ik vandaan kom"**: precies het tegenovergestelde van wat hij aan het eind leert (je kunt niet wegbewegen van waar je vandaan komt, *Wi na Sranang-mang!*).
+- **De begraafplaats**: op Dag 6 bezoeken ze opa's graf; in de ruzie zegt Johannes: "Ik loop niet joggend op de begraafplaats."
+- **Vader drinkt**: zie *Zo godvergeten moe*.
+- **"Hoofd boven water houden"** ↔ *dagu swen*.
+
+### 👥 Personages
+- **Johannes (7)**: bang, maar slim en volwassen voor zijn leeftijd. Maakt "deals" met volwassenen.
+- **Moeder**: psychisch ziek, verward, afwezig.
+- **Vader**: probeert rustig te blijven, maar is ook bang; drinkt.
+- **De agenten**: vriendelijk, bezorgd.
+
+### 💬 Mening (PEAL)
+- **P:** Dit vind ik het meest aangrijpende hoofdstuk van het boek.
+- **E:** *"Ik ben niet waar ik vandaan kom, ik ben niet waar ik vandaan kom, ik ben niet waar ik vandaan kom."*
+- **A:** De herhaling klinkt als een mantra: het kind probeert zichzelf te overtuigen. Omdat zijn moeder "gek" was en uit Suriname kwam, besloot hij: ik ben niet zoals zij. Daarom wilde hij altijd alleen "Johannes", alleen Hollander zijn. Dit verklaart het hele boek.
+- **L:** Thema **ervaringen / sociale organisatie** (psychische gezondheid). Kinderen van ouders met psychische problemen moeten vaak te snel volwassen worden. Ik vind het knap hoe eerlijk de schrijver hierover is.
+
+---
+
+## 32. De synagoge en de moskee, deel 1 (p. 144–148)
+*Dag 4 · hardlopen en Don Alberto*
+
+### 📖 Samenvatting
+Moeder doet een middagdutje ("Ik moet rusten." "Je bedoelt slapen." "Nee, rusten. Dat duurt minder lang."). Johannes gaat hardlopen langs de rivier, in de hitte, met muziek van Paul Simon. Voorbijgangers kijken verbaasd: blaka bakra. Een jongen van ongeveer tien, George, rent naast hem: "U loopt snel meneer, heeft u haast? Waar moet u zijn? Holland?" Johannes: "Ik moet nergens zijn." George: **"Dan moet u langzamer lopen. Dan kunt u beter kijken."** Georges moeder roept hem terug. Ze doen een wedstrijdje: George naar zijn moeder, Johannes naar een blauwe brommer. George wint en juicht.
+
+Johannes rust uit en hoort een oude man zingen. Hij zit op het trapje van een huisje naast een groot gebouw met een davidster: de beroemde **synagoge** van Paramaribo. Pal ernaast staat een **moskee** met vier minaretten. Er is geen muur tussen de twee gebouwen, alleen lage, vriendelijke hekjes.
+
+De man roept hem: "Wat bezielt jou, wil je een zonnesteek?" Hij heet Albert de Leeuw, "maar je mag Don Alberto zeggen". Hij is Joods, de secretaris van de synagoge. Hij vraagt: "Waar kom je vandaan?" "Amsterdam." **"Maar waar kom je echt vandaan?"** Johannes: **"Als ik dat toch eens wist."** Don Alberto knikt goedkeurend. De rabbi is te laat ("volgens hem bepaalt je-weet-wel-wie hoe laat een mens komt"). Don Alberto biedt koffie aan, maar het blik is leeg (collega Sammy heeft alles opgedronken). "We kijken even bij de buren": bij de moskee!
+
+### 🇬🇧 Summary
+Mum takes an afternoon nap ("I need to rest." "You mean sleep." "No, rest. It's shorter."). Johannes goes jogging by the river in the heat, listening to Paul Simon; passers-by stare: blaka bakra. A boy of about ten, George, runs alongside: "You run fast, sir, are you in a hurry? Where to, Holland?" "I don't need to be anywhere." George: **"Then you should run slower. Then you can see better."** His mother calls him back; they race, George to his mum, Johannes to a blue moped. George wins and cheers.
+
+Resting, Johannes hears an old man singing on the step of a small house next to a building with a Star of David: Paramaribo's famous **synagogue**. Right next to it stands a **mosque** with four minarets, with no wall between them, only low, friendly fences.
+
+The man calls: "Want sunstroke?" He's Albert de Leeuw, "call me Don Alberto", the Jewish secretary of the synagogue. "Where are you from?" "Amsterdam." **"But where are you really from?"** Johannes: **"If only I knew."** Don Alberto nods approvingly. The rabbi is late ("he says you-know-who decides when a man arrives"). He offers coffee, but the tin is empty (colleague Sammy drank it all). "Let's check the neighbours": the mosque!
+
+### 🔗 Verband met het hele boek
+- **"Waar kom je echt vandaan?"**: de vraag uit de proloog komt terug. Maar nu is het antwoord anders: niet "Dordrecht" of "Ik heet Johannes", maar eerlijk: "Als ik dat toch eens wist." Johannes durft nu te twijfelen.
+- **Langzamer leven**: George zegt hetzelfde als tante met *dagu swen* en de Surinaamse tijd.
+- **Moeder en kind**: George en zijn moeder (liefdevol-boos) zijn een spiegel van Johannes en zijn moeder.
+- **Religieuze tolerantie**: contrast met moeders vooroordelen over moslims.
+
+### 👥 Personages
+- **George**: nieuwsgierig, slim, sneller dan gedacht.
+- **Don Alberto**: grappig, zelfspot, Joods, levensgenieter.
+- **Johannes**: sportief, open, eerlijker dan vroeger.
+
+### 💬 Mening (PEAL)
+- **P:** Ik vind het antwoord van Johannes aan Don Alberto een teken dat hij veranderd is.
+- **E:** *"'Oh mein! Maar waar kom je echt vandaan?' 'Als ik dat toch eens wist.'"*
+- **A:** In de proloog voelde de vraag als een aanval. Nu stelt een vriendelijke man hem, en Johannes antwoordt met humor en eerlijkheid. Hij hoeft niet meer te bewijzen dat hij Nederlander is.
+- **L:** Thema **identiteiten**. De synagoge en moskee naast elkaar laten zien dat verschillende identiteiten vreedzaam kunnen samenleven.
+
+---
+
+## 33. De synagoge en de moskee, deel 2 (p. 148–152)
+*Dag 4 · koffie met een Jood en een moslim*
+
+### 📖 Samenvatting
+Don Alberto roept bij de moskee: "Rashid!" Rashid, de beheerder van de moskee, komt op het balkon. Ze maken grapjes over elkaar ("Je ziet eruit alsof je onder een bestelbus hebt gelegen." "En jij bent op weg naar je eigen crematie?"). Don Alberto zegt zacht tegen Johannes: "Het is als Jood moeilijk om een moslim honderd procent te vertrouwen… Maar in Suriname kun je tot tachtig procent komen." Rashid brengt koffie.
+
+Ze drinken samen koffie: een moslim, een Jood en een halve Surinamer ("het begin van een slechte mop"). Don Alberto doet stiekem rum in Rashids koffie en ontkent het. Johannes vraagt of ze in vrede naast elkaar leven. Rashid kijkt verbaasd: "Natuurlijk in vrede. Hoe zou het anders moeten?" Johannes schaamt zich. Don Alberto: "Ze zouden ons naar het Midden-Oosten moeten sturen." Het geheim? **"Parkeerplek."** Op feestdagen mogen ze bij elkaar parkeren. "Iedereen heeft het over een tweestatenoplossing, maar je moet gewoon beginnen met een broederlijk parkeerbeleid." Rashid: "Mijn geloof is vooral dat je het een beetje gezellig moet maken." Als Johannes vraagt wat ze gaan stemmen, wordt het stil: "Zullen we het maar niet over politiek hebben? Het is net zo gezellig."
+
+Moeder en Wonny halen Johannes op. Moeder vindt Don Alberto "een schatje". Ze zegt trots: **"Dit zie je alleen maar in Suriname. Het maakt ons geen snars uit wat je gelooft. Wij zijn Surinamers!"** Maar dan: "Als die Nederlandse moslims hier eens zouden komen kijken, dan gingen ze zich misschien ook beter gedragen." Johannes: "Zo ken ik je weer. Eerst verbroedering en dan toch weer een vleugje racisme." Moeder: "Ik ben geen racist!" Ze maakt een grap over Wilders ("de Blonde Mozart"): hij zou de moskee afbreken en er een kapsalon voor zichzelf bouwen. Ze lachen allemaal heel hard. Johannes denkt aan wat moeder vaak zegt: **"je kunt de mensen beter laten lachen om de dingen die belachelijk zijn, dan er verbeten met ze over te vechten."** Hij stelt zich voor dat Wilders bij hen in de auto zit en ook moet lachen.
+
+### 🇬🇧 Summary
+Don Alberto calls "Rashid!" at the mosque; Rashid, its caretaker, appears on the balcony. They trade insults ("You look like you were run over by a van." "And you're off to your own cremation?"). Don Alberto whispers: "As a Jew it's hard to trust a Muslim 100%… but in Suriname you can get to 80%." Rashid brings coffee.
+
+A Muslim, a Jew and half a Surinamese drink coffee ("the start of a bad joke"); Don Alberto secretly spikes Rashid's with rum and denies it. Johannes asks if they live in peace. Rashid, puzzled: "Of course. How else?" Johannes is embarrassed. Don Alberto: "They should send us to the Middle East." The secret? **"Parking."** On holidays they park at each other's place. "Everyone talks of a two-state solution, but you should start with a brotherly parking policy." Rashid: "My faith is mostly about keeping things cosy." Asked how they'll vote, silence: "Let's not talk politics. It's so cosy."
+
+Mum and Wonny collect him. Mum finds Don Alberto "a sweetie" and says proudly: **"You only see this in Suriname. We don't care what you believe. We're Surinamese!"** Then: "If those Dutch Muslims came to look here, maybe they'd behave better." Johannes: "That's you again: first brotherhood, then a whiff of racism." "I'm not a racist!" She jokes that Wilders ("the Blond Mozart") would tear down the mosque and build himself a hair salon. They roar with laughter. Johannes recalls her saying: **"better to make people laugh at ridiculous things than to fight them grimly."** He imagines Wilders in the car laughing too.
+
+### 🔗 Verband met het hele boek
+- **"Wij zijn Surinamers"**: moeder herhaalt de boodschap van opa's gedicht (eenheid).
+- **Moeders racisme** (*Niet helemaal eerlijk geweest*) komt weer terug: ze is tegenstrijdig.
+- **Humor als wapen**: de rode draad van de familie. Op Dag 6 leert Johannes dat humor ook een schild kan zijn waarachter je pijn verbergt.
+- **Politiek als taboe**: net als bij Wonny ("elke korrel is politiek") en Mildred.
+
+### 👥 Personages
+- **Don Alberto**: grappig, ondeugend, warm.
+- **Rashid**: relaxed, ziet geloof als gezelligheid.
+- **Moeder**: trots op Suriname, maar ook bevooroordeeld; haar humor ontwapent.
+- **Johannes**: kritisch op zijn moeder, maar lacht mee.
+
+### 💬 Mening (PEAL)
+- **P:** Ik vind dit hoofdstuk hoopvol: het laat zien dat vrede soms begint met kleine, praktische dingen.
+- **E:** *"Iedereen heeft het over een tweestatenoplossing, maar je moet gewoon beginnen met een broederlijk parkeerbeleid."*
+- **A:** Het is een grap, maar er zit een serieuze boodschap in: mensen die samen leven en elkaar helpen, krijgen vertrouwen. Tegelijk laat moeder zien dat ook iemand die vrede prijst, vooroordelen kan hebben.
+- **L:** Thema **sociale organisatie / deel de planeet**. In de wereld zijn veel conflicten tussen religies; Suriname laat zien dat het anders kan. Ik ben het eens met moeder dat humor soms beter werkt dan ruzie.
+
+---
+
+## 34. Zo godvergeten moe (p. 153–157)
+*Flashback · de ergste tijd*
+
+### 📖 Samenvatting
+Na de begraafplaats loopt moeder nog drie keer weg. Twee keer komt ze zelf terug, alsof er niets is gebeurd. Eén keer brengt een vrouw haar thuis vanaf de kinderboerderij. Johannes went er bijna aan: "een kind gaat alles wat het meemaakt vrij snel zien als iets normaals". Moeder spoelt haar pillen door de wc. Ze noemt Johannes met een andere naam: **"Dag Keerti."** Hij schreeuwt: **"Ik heet geen Keerti! Ik heet Johannes! Johannes, Johannes, Johannes!"** "Doe normaal, mama!" Ze lacht hem uit.
+
+Vader gaat steeds meer drinken (Hertog Jan). Hij draait harde muziek en schreeuwt tegen mensen die er niet zijn. Na een paar dagen is hij weer nuchter, maakt het huis schoon en kookt lekker. Dan is hij weer de goede vader. "Het was moeilijk voor te stellen dat deze **twee totaal verschillende soorten vaders** in dezelfde persoon zaten." Johannes sluit zich op in zijn kamer. In zijn spaarvarken zit twaalf gulden: niet genoeg om te vluchten. Soms gaat hij naar de oude buurvrouw, mevrouw De Boer, om postzegels te kijken en koekjes te eten.
+
+De vierde keer dat moeder wegloopt, zegt vader (nuchter): "Pak je tas in. **We moeten aan onszelf denken.**" Ze gaan weg, Johannes hoeft niet naar school. In een vreemde stad stopt Johannes bij een ouder echtpaar en zegt: "Mijn moeder is gek geworden. Ze loopt steeds weg van huis. Ik ben zo bang!" Hij huilt. Het echtpaar kijkt boos naar vader: "Een kind moet een veilige omgeving hebben." Vader: "Waar bemoeit u zich mee? Het is al erg genoeg!" Ze slapen in opvanghuizen, met andere "dwalende" mensen, op harde bedden. De familie Fretz wil hen niet ontvangen: "het kwam niet zo goed uit". Anders dan de Surinaamse familie, die altijd voor elkaar klaarstaat.
+
+Als ze terugkomen, zit moeder in de kamer. Ze lijkt "meer op een geest van mama dan op mama zelf". Ze zegt: **"Jan, je moet me helpen. Ik ben zo moe. Ik ben zo godvergeten moe."**
+
+### 🇬🇧 Summary
+After the cemetery, mum runs away three more times: twice she returns as if nothing happened, once a woman brings her back from the petting farm. Johannes almost gets used to it: "a child quickly sees everything as normal". She flushes her pills and calls him by another name: **"Hello Keerti."** He screams: **"I'm not Keerti! I'm Johannes! Johannes, Johannes, Johannes!"** "Act normal, mummy!" She laughs at him.
+
+Dad drinks more and more (Hertog Jan beer), plays loud music, shouts at people who aren't there. After a few days he's sober again, cleans, cooks, the good dad again: "hard to imagine these **two completely different fathers** in one person." Johannes locks himself in his room; his piggy bank holds twelve guilders, not enough to run away. Sometimes he visits old neighbour Mrs De Boer for stamps and biscuits.
+
+The fourth time mum runs off, dad (sober) says: "Pack your bag. **We have to think of ourselves.**" They leave; no school. In a strange town Johannes stops an elderly couple: "My mother's gone crazy. She keeps running away. I'm so scared!" and cries. The couple glare at dad: "A child needs a safe environment." Dad: "Mind your own business! It's bad enough!" They sleep in shelters with other "wandering" people on hard beds. Dad's family, the Fretzes, won't take them in, "not convenient", unlike the Surinamese family, who are always there for each other.
+
+When they return, mum sits in the living room, "more a ghost of mummy than mummy herself". She says: **"Jan, you have to help me. I'm so tired. I'm so godforsakenly tired."**
+
+### 🔗 Verband met het hele boek
+- **"Keerti"**: zijn eigen moeder nam zijn naam (zijn identiteit) af. In de ruzie op Dag 6 noemt hij dit: "Ik brabbel niet dat mijn zoon Keerti heet."
+- **"Zo godvergeten moe"**: op Dag 6 zegt Johannes: "ik heb geloof ik nu pas door hoe moe ik daarvan ben." Moeder en zoon zijn allebei moe.
+- **Twee soorten vaders** → in Suriname: de tedere vader in de brief van 1985.
+- **Surinaamse vs. Nederlandse familie**: de Brouwns staan voor elkaar klaar, de Fretzen niet.
+
+### 👥 Personages
+- **Johannes (7–8)**: bang, eenzaam, schreeuwt zijn naam om grip te houden.
+- **Moeder**: ernstig ziek, verward, maar vraagt aan het eind om hulp.
+- **Vader**: alcoholist in crisis, maar ook liefdevol; probeert zijn zoon te beschermen.
+- **Mevrouw De Boer**: een veilige plek.
+
+### 💬 Mening (PEAL)
+- **P:** De scène met "Keerti" vind ik de meest pijnlijke van het boek.
+- **E:** *"Ik heet geen Keerti! Ik heet Johannes! Johannes, Johannes, Johannes!"*
+- **A:** Voor Johannes is zijn naam het enige dat hij heeft. Als zijn moeder hem een andere naam geeft, verliest hij zijn grip. Dat verklaart waarom hij later zijn naam als schild gebruikt. De laatste zin van moeder ("zo godvergeten moe") laat zien dat ook zij lijdt.
+- **L:** Thema **sociale organisatie** (psychische gezondheid, verslaving, familie). Ik vind het belangrijk dat er hulp is voor kinderen in zulke situaties; Johannes moest alles alleen doen.
+
+---
+
+## 35. Bonnie, deel 1 (p. 158–162)
+*Dag 4 · het ouderlijk huis van moeder*
+
+### 📖 Samenvatting
+Wonny parkeert in de **Daniel Coutinhostraat**. Moeder is de "toergids"; ze heeft dit bezoek al vaak in haar hoofd gespeeld. Ze pakt stiekem een rugzakje uit de auto en giechelt ("Wat is er?" "Niks."). Ze loopt langzaam door de straat, alsof ze elk stukje grond wil voelen. Johannes wil niet nadenken, maar voelen. Maar de "helikopter" in zijn hoofd, van waaruit hij zichzelf altijd bekijkt, blijft.
+
+Daar staat het huis: wit, van hout, **op rode palen**. "Zie je, de stelten! Of eigenlijk zeggen we hier: een huis op neuten." Een jongen zaagt hout. Wonny zegt plechtig: "Dit is **Virginia Brouwn**, boy." De jongen begrijpt het: "U bent familie van de Brouwns! Die hebben hier gewoond." De ouders komen naar buiten. Ze kennen de verhalen over de Brouwns: de creool die leraar Nederlands was en schreef, zijn half-Chinese vrouw en hun grote gezin. "De mensen kennen jullie nog." Ze mogen overal rondkijken. Binnen is alles verbouwd. Moeder wil niet naar binnen: **"Je moet niet in andermans ziel rond blijven dolen. Ik wil mijn eigen herinnering graag behouden."** Wonny en de bewoners zoeken gemeenschappelijke kennissen: "als je een Surinamer kent, kun je er zes overslaan."
+
+Johannes zit op de trap. Het huis is kleiner dan hij dacht. Hoe kon je hier met elf kinderen wonen? Moeder komt naast hem: "Dit is **de beroemde trap**. De trap waar ik 's avonds vanaf sloop, naar de steiger van Torarica. De trap waarop ik negentien ben geworden." Opa heeft het huis zelf gebouwd: een bouwpakket, "een soort IKEA, maar van beter materiaal".
+
+Dan neemt moeder hem mee naar de achtertuin: aarde, een waslijn, een kinderfietsje. Ze roept naar de werkman op het dak: "Wrokko switi!" (fijn werken). Ze wijst naar een hoek: "Daar stond een boompje met een hangmat. Daar lag ik altijd Suske en Wiske te lezen… **Onder de paramariboom**, weet je wel?" Johannes bloost: "De paramariboom is van mij toch?" Moeder lacht: "…en in die boom groeien zwarte mensen zoals mama en Ruud Gullit! Ja schat, ik weet het nog. Het is jouw zin, maar ik heb hem van je geleend."
+
+### 🇬🇧 Summary
+Wonny parks in the **Daniel Coutinhostraat**. Mum is the "tour guide"; she's rehearsed this visit in her head many times. She secretly grabs a small backpack from the car and giggles ("What?" "Nothing."). She walks slowly, as if feeling every bit of ground. Johannes wants to feel, not think, but the "helicopter" in his head, from which he always watches himself, stays.
+
+There's the house: white, wooden, **on red posts**. "See, the stilts! Or as we say here, a house on neuten." A boy is sawing wood. Wonny announces solemnly: "This is **Virginia Brouwn**, boy." "You're family of the Brouwns! They lived here." His parents know the stories: the Creole Dutch teacher who wrote, his half-Chinese wife, their big family. "People still remember you." They may look around; inside everything is rebuilt, so mum won't go in: **"You shouldn't wander around in someone else's soul. I want to keep my own memory."** Wonny and the owners find mutual acquaintances: "if you know one Surinamese, you can skip six handshakes."
+
+Johannes sits on the stairs; the house is smaller than he thought. Eleven kids here? Mum joins him: "This is **the famous staircase**. The stairs I sneaked down at night to the Torarica jetty. The stairs where I turned nineteen." Grandpa built the house himself, a kit, "a kind of IKEA, but better material".
+
+She leads him to the back garden: earth, a washing line, a kid's bike. She calls "Wrokko switi!" (work well) to the man on the roof and points to a corner: "There was a little tree with a hammock. I always read Suske en Wiske there… **under the paramariboom**, you know?" Johannes blushes: "The paramariboom is mine, isn't it?" She laughs: "…where black people grow like mummy and Ruud Gullit! Yes darling, I remember. It's your sentence, but I borrowed it."
+
+### 🔗 Verband met het hele boek
+- **De belofte** uit *Ik wil niet naar Su* komt uit: moeder laat hem het huis zien.
+- **De titel**: de "paramariboom" uit de proloog wordt een echte plek. De kinderfantasie van Johannes en de herinnering van moeder komen samen.
+- **De trap en de steiger van Torarica**: Johannes gaat op Dag 6 naar de pier.
+- **Opa** bouwde het huis: zijn handen, zijn gedichten, zijn graf: de reis naar opa.
+- **Het rugzakje** → het grote moment in het volgende deel.
+
+### 👥 Personages
+- **Moeder**: trots, ontroerd, beschermt haar herinneringen, speels.
+- **Wonny**: presenteert Virginia als een filmster.
+- **De bewoners**: gastvrij, kennen de familie uit verhalen.
+- **Johannes**: wil voelen in plaats van denken; voelt zich betrapt bij de paramariboom.
+
+### 💬 Mening (PEAL)
+- **P:** Ik vind het prachtig dat de titel van het boek hier zijn echte betekenis krijgt.
+- **E:** *"'Daar lag ik altijd die Suske en Wiske's te lezen… Onder de paramariboom, weet je wel?'"*
+- **A:** De paramariboom was een kinderfantasie, maar nu blijkt het een echte plek uit de jeugd van zijn moeder. Moeder "leent" zijn zin: zo verbindt ze haar verleden met zijn verleden. Het is ook mooi dat ze niet naar binnen wil: ze wil de herinnering houden zoals die is.
+- **L:** Thema **ervaringen / identiteiten**. Plekken uit je jeugd kunnen heel belangrijk zijn voor wie je bent. Ik denk dat veel mensen ooit hun oude huis terug willen zien.
+
+---
+
+## 36. Bonnie, deel 2 (p. 162–165) ⭐⭐
+*Dag 4 · de navelstreng begraven*
+
+### 📖 Samenvatting
+Moeder kijkt of niemand hen ziet. Ze opent het rugzakje en geeft Johannes een schepje. Dan haalt ze een klein houten kistje tevoorschijn, alsof het een schat is. Ze schuift het deksel open. Johannes ziet iets kleins, bruin, verhard. Hij weet niet wat het is. Moeder zegt: **"Schat, mag ik je voorstellen aan je navelstreng. Nou ja: aan een heel klein overblijfsel ervan."**
+
+Johannes' lichaam begint te tintelen. Hij begrijpt wat ze gaan doen. "Begin voor me te graven," zegt moeder. Hij graaft een gat op de plek van de vroegere paramariboom. Moeder legt haar hand op zijn schouder en vertelt: "Ik heb de zuster na je geboorte gevraagd het voor me in te pakken. Je vader vond het vies: 'Gooi die troep toch weg, Virgien!' Maar ik heb het bewaard. **Negenentwintig jaar.**" Ze giechelt: "Wil je jezelf begraven?" Johannes: "Nee mama. Aan jou de eer."
+
+Moeder legt het kistje in de aarde. **"Dag navel van Johannes. Mogen de wormen je niet vinden."** Ze schept de aarde terug en drukt het aan. Niemand heeft het gezien: een "illegale begrafenis".
+
+Dan zingt ze voor hem het lied **"Bonnie kom je buiten spelen"** (over de straat waar je als kind woonde en die herinneringen). Ze weet de tekst niet helemaal, maar zingt door, steeds luider. Ze heeft een mooie stem. Daarna kijkt ze Johannes aan: ze zoekt in zijn ogen naar een reactie, naar **goedkeuring**, naar vergeving. Johannes wil zoveel zeggen, maar durft niet. "Ik zou haar willen vastpakken, gewoon iets simpels zeggen. Maar ik kan het niet. Nog niet." Zijn moeder, die altijd door elk pantser heen breekt, "botst hier tegen een muur, die maar heel langzaam, beetje bij beetje, afbrokkelt. Ze zal geduld moeten hebben." Moeder zegt verlegen: **"Dat was het. Ik kan het wel herhalen, maar het blijft hetzelfde liedje."**
+
+### 🇬🇧 Summary
+Mum checks that nobody's watching, opens the backpack and hands Johannes a trowel. Then she takes out a small wooden box like a treasure and slides it open. Johannes sees something small, brown, hardened, and has no idea what it is. Mum: **"Darling, let me introduce you to your umbilical cord. Well, a tiny remnant of it."**
+
+His body tingles; he understands. "Start digging for me." He digs at the spot of the old paramariboom. Hand on his shoulder, she says: "After your birth I asked the nurse to wrap it for me. Your father found it disgusting, 'Throw that junk away, Virgien!', but I kept it. **Twenty-nine years.**" She giggles: "Want to bury yourself?" "No mum. The honour is yours."
+
+She places the box in the earth: **"Goodbye, navel of Johannes. May the worms not find you."** She fills the hole and presses it down: an "illegal burial" nobody saw.
+
+Then she sings him **"Bonnie, come out and play"**, a song about the street where you lived as a child and its memories. She forgets some words but keeps singing, louder; she has a beautiful voice. Then she searches his eyes for a reaction, for **approval**, for forgiveness. He wants to say so much but doesn't dare: "I'd like to hold her, just say something simple. But I can't. Not yet." His mother, who always breaks through every armour, "runs into a wall here that crumbles only very slowly, bit by bit. She'll need patience." She says shyly: **"That was it. I can sing it again, but it stays the same song."**
+
+### 🔗 Verband met het hele boek
+- **Het hart van het boek.** De navelstreng: tante legde het ritueel uit (Dag 1), opa schreef "Allen wier navelstreng begraven is in de Surinaamse grond zullen blijven voor altijd: Surinamers." Nu is Johannes officieel "Surinamer".
+- **De muur/het pantser** van Johannes brokkelt af: helemaal op Dag 6 ("Het is niet jouw schuld").
+- **"Het blijft hetzelfde liedje"**: Johannes begrijpt deze zin pas op Dag 6, als moeder hem weer zo aankijkt.
+- **Laatste bladzijde**: "Per navelstreng begraven onder de paramariboom."
+- In *Wat een lelijke baby* vroeg moeder iets aan de verpleegster: nu weten we wat.
+
+### 👥 Personages
+- **Moeder**: liefdevol, speels, kwetsbaar. Ze heeft 29 jaar aan dit moment gedacht. Ze wil vergeving.
+- **Johannes**: ontroerd, maar kan zijn gevoel nog niet uiten.
+- **Vader** (genoemd): vond het "vies".
+
+### 💬 Mening (PEAL)
+- **P:** Dit is voor mij het belangrijkste en mooiste moment van het boek.
+- **E:** *"'Dag navel van Johannes,' zegt ze. 'Mogen de wormen je niet vinden.'"*
+- **A:** Door de navelstreng te begraven, geeft moeder Johannes een plek in Suriname: zijn wortels liggen nu hier. Ze bewaarde het 29 jaar, ook in de moeilijke tijden: dat laat zien hoeveel ze van hem houdt. De humor ("wormen") maakt het ontroerende moment licht. Maar Johannes kan nog niet reageren: zijn muur is er nog.
+- **L:** Thema **identiteiten / ervaringen**. Rituelen kunnen je verbinden met je afkomst. Ik vind het mooi dat iets kleins (een stukje navelstreng) zo'n grote betekenis kan hebben.
+
+---
+
+## 37. Mensen met ander bloed (p. 166–170)
+*Dag 4 · avond: roti en de eerste zoen*
+
+### 📖 Samenvatting
+Johannes en Jaantje gaan eten bij rotitent Krisje. Het ziet eruit als een voetbalkantine, met tl-licht en plastic stoelen. Jaantje: "Hoe lelijker de plek, hoe beter het eten." De kousenband is op, maar ze nemen toch roti. Het is de beste roti van Johannes' leven.
+
+Hij denkt terug aan vroeger: thuis kookte moeder alleen Surinaams als er bezoek kwam (bijna nooit). Vader kookte Hollandse pot: aardappelen, groente, vlees. Moeder: "Wat past de Hollandse keuken toch goed bij dit land: fantasieloos!" Vader: "Kook jij dan. Het is niet te vreten wat je maakt." Kleine Johannes zei: "Prima eten! Ik houd van Hollands eten!" Jaantje vertelt verlegen dat haar eerste roti "Knorr Wereldgerechten Roti" was. Johannes: "Dat is een misdaad tegen de mensheid!"
+
+Op weg terug spelen ze een spelletje: "Beatles of Stones?" ("The Doors"), "Ochtendmens of avondmens?" ("Ochtendmens"), "Obama of Mandela?" (Johannes: "Obama; 'Mandela' zeggen zou liegen"), "Boudewijn de Groot of Ramses Shaffy?" ("Shaffy"). Bij het hotel is het even ongemakkelijk stil. Johannes vertelt een anekdote uit de biografie van zanger Ramses Shaffy: hij danste ooit op een deftig feest met een actrice, ze vielen samen op de grond, en hij zei: **"Nederland wacht op mensen zoals jij en ik. Met ander bloed."**
+
+Johannes wil weggaan, maar Jaantje zoent hem. "Ongeduldig, zacht, ruw, alles tegelijk." **"We zoenen op Surinaamse tijd: hij buigt met ons mee."** Daarna gaan ze ieder naar hun eigen kamer: "Het hoeft niet allemaal tegelijk." Jaantje: "Slaap lekker, Johannes." Hij: "Jij ook. Ochtendmens."
+
+### 🇬🇧 Summary
+Johannes and Jaantje eat at roti joint Krisje, which looks like a football canteen with strip lights and plastic chairs. Jaantje: "The uglier the place, the better the food." No yardlong beans left, but it's the best roti of his life.
+
+He remembers home: mum only cooked Surinamese for guests (almost never); dad cooked Dutch meat-and-potatoes. Mum: "Dutch food suits this country: unimaginative!" Dad: "Cook yourself then; your food's inedible." Little Johannes: "Great food! I love Dutch food!" Jaantje admits her first roti was "Knorr World Dishes Roti". Johannes: "A crime against humanity!"
+
+Walking back they play "this or that": Beatles or Stones ("The Doors"), morning or night person ("morning"), Obama or Mandela (Johannes: "Obama; saying Mandela would be lying"), Boudewijn de Groot or Ramses Shaffy ("Shaffy"). At the hotel there's an awkward silence. He tells an anecdote from singer Ramses Shaffy's biography: dancing at a posh party with an actress, they fell to the floor and he said: **"The Netherlands is waiting for people like you and me. With other blood."**
+
+Johannes moves to leave, but Jaantje kisses him, "impatient, soft, rough, all at once". **"We kiss on Surinamese time: it bends along with us."** Then each goes to their own room: "It doesn't all have to happen at once." "Sleep well, Johannes." "You too. Morning person."
+
+### 🔗 Verband met het hele boek
+- **"Ander bloed"**: in de proloog vergat hij dat hij "ander bloed" had; bij de landing was hij "een Surinamer met ander bloed"; Jaantje proostte "op ander bloed". Nu wordt het iets positiefs dat hen verbindt.
+- **Eten = identiteit**: thuis koos Johannes voor Hollands eten (de kant van vader). Nu ontdekt hij de Surinaamse keuken.
+- **Surinaamse tijd** (*Dagu Swen*): de tijd buigt mee, ook in de liefde.
+- **Liefdesverhaal**: op Dag 6 nodigt Jaantje hem uit naar Boedapest.
+
+### 👥 Personages
+- **Jaantje**: grappig, zelfverzekerd, neemt het initiatief (zij zoent hem).
+- **Johannes**: verliefd, denkt te veel na.
+- **Vader en moeder** (herinnering): ruzie over eten.
+
+### 💬 Mening (PEAL)
+- **P:** Ik vind het Shaffy-citaat heel goed gekozen, omdat het "ander bloed" iets positiefs maakt.
+- **E:** *"Nederland wacht op mensen zoals jij en ik. Met ander bloed."*
+- **A:** Eerst was "ander bloed" iets waardoor Johannes zich buitenstaander voelde. Nu is het iets wat hem verbindt met Jaantje. Ze zijn allebei Nederlands én iets anders. De zin over "Surinaamse tijd" laat zien dat Johannes het Surinaamse levensgevoel heeft overgenomen.
+- **L:** Thema **identiteiten**. Ik denk dat mensen met een gemengde achtergrond elkaar vaak goed begrijpen. Liefde kan grenzen overstijgen.
+
+---
+
+> ⏳ *Hoofdstuk 38 en verder komen eraan…*
